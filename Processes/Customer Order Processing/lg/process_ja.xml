@@ -1,0 +1,3098 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslateCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" frozen="false">
+	<items>
+		<TranslateItem>
+			<key>__Plant</key>
+			<val>プラント
+</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_A valid contract is mandatory</key>
+			<val>この顧客の有効な契約が見つかりません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Account_number</key>
+			<val>口座番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_AcknowledgeSimulationWarnings</key>
+			<val>シミュレーションに関する警告を確認</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Actions_pane</key>
+			<val>アクション</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Add original email content</key>
+			<val>会話に元のメールを表示する</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Advanced Shipping Notices</key>
+			<val>出荷通知</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Alert on duplicates changed {0}</key>
+			<val>これらのオプションは変更されました。この注文では、変更前の重複アラート基準は「{0}」に設定されていました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Alert on duplicates changed {0}_Touchless changed {1}</key>
+			<val>これらのオプションは変更されました。この注文では、変更前の重複アラートの基準は「{0}」、自動処理は「{1}」に設定されていました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_An error occurred while loading contract</key>
+			<val>契約書の読み込み中にエラーが発生しました。もう一度やり直してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_An error occurred while loading quote</key>
+			<val>見積の読み込み中にエラーが発生しました。もう一度やり直してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ArchiveOnlyChangeOrderCancellationText</key>
+			<val>この伝票により、既存の注文が変更またはキャンセルになります。対象となる注文はERPにて手動で更新してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Automatic Processing</key>
+			<val>自動処理</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse date from</key>
+			<val>検索フォーム</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse date to</key>
+			<val>期限</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse PO Date</key>
+			<val>PO 日付</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse PO Number</key>
+			<val>PO 番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse SAP Document Id</key>
+			<val>SAP注文番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Cancel Order in SAP</key>
+			<val>SAPですべての明細を拒否</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_brand</key>
+			<val>カードプロバイダー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_expiration</key>
+			<val>有効期限</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_holder</key>
+			<val>カード名義人</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_number</key>
+			<val>カード番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_type</key>
+			<val>カード種別</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Change Order</key>
+			<val>変更注文</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Change Orders</key>
+			<val>変更注文履歴</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ChatGPT answer</key>
+			<val>ChatGPTで生成された返信</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Comment</key>
+			<val>コメント</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Computed quantity</key>
+			<val>この数量は自動的に変換されました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ComputingParametersWaiting</key>
+			<val>処理オプションを読み込んでいます...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Confirmed quantity is {0} for schedule line date {1} in item {2}</key>
+			<val>予定日 {1} および明細品目 {2} の確認済み数量は {0} です。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract cannot be referenced due to its completed status</key>
+			<val>この値は、完了済契約に相当します。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract no longer valid</key>
+			<val>この契約は期限が切れています。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract not found</key>
+			<val>この契約番号の契約は見つかりませんでした。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract not yet valid</key>
+			<val>契約の有効期間は開始されていません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract partner not matching current sold-to</key>
+			<val>契約の受注先が指定された顧客と一致しません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract sales area not matching current sales area</key>
+			<val>契約販売エリアが指定された販売エリアと一致しません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract type not supported</key>
+			<val>この契約タイプには対応していません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation cc</key>
+			<val>Cc</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation email bad format</key>
+			<val>正しい電子メールアドレスを入力してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation email linked to another customer</key>
+			<val>は、別の顧客の連絡先として登録されています。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation message</key>
+			<val>メッセージ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation template</key>
+			<val>テンプレート</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation to</key>
+			<val>終了日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation unable to send message</key>
+			<val>メッセージを送信できません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation will create new customer</key>
+			<val>は、この顧客の担当者として登録されていません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation will create one or more new customers</key>
+			<val>指定された 1 件以上の電子メールアドレスは、既存の顧客連絡先と一致しません。メッセージを送信すると、この顧客に、次のように新しい連絡先が作成されます。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Csv_Non_Extracted_data_loss</key>
+			<val>新しい注文を読み込むと、手動で入力したすべてのデータが上書きされます。
+続行しますか？</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Csv_Non_Extracted_data_loss_title</key>
+			<val>現在のデータを置き換え</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Customer</key>
+			<val>顧客連絡先</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Customer material Id {0} is not defined for sales area {1} and customer number {2}.</key>
+			<val>販売エリア {1} および顧客番号 {2} の顧客品目 ID {0} が定義されていません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_CustomerUnit</key>
+			<val>顧客単位</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_CustomerUnit_report</key>
+			<val>顧客単位</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_CustomerUnitBrowseTitle</key>
+			<val>顧客単位</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DeleteAllLinesButton</key>
+			<val>すべての行を削除</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DeleteAllLinesMessage</key>
+			<val>すべての行を削除しますか?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DeleteAllLinesTitle</key>
+			<val>削除の確認</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Denominator</key>
+			<val>Denominator</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_disabled</key>
+			<val>無効</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Do not show this warning again</key>
+			<val>今後このメッセージを表示しない</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Document {0} has been created but error occurred during update, the document is incomplete.</key>
+			<val>文書 {0} が作成されましたが、更新中にエラーが発生したため、文書は不完全です。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Down payment percentage</key>
+			<val>前受/前払金 (%)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DropShipToAddress_Language</key>
+			<val>コミュニケーション言語コード</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DropShipToAddress_Language_report</key>
+			<val>コミュニケーション言語コード</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DropShipToAddress_TransportationZone</key>
+			<val>輸送ゾーン</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Duplicates</key>
+			<val>重複</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_enabled</key>
+			<val>有効</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ErrorDuplicateFieldsUnrecognized</key>
+			<val>重複チェック用に構成された1つ以上のフィールドがこのフォームに存在しません。管理者に連絡してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ERRORS</key>
+			<val>エラー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_External</key>
+			<val>その他の担当者</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Autolearning</key>
+			<val>自動学習</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Autolearning_report</key>
+			<val>自動学習で抽出されたデータ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Gpt</key>
+			<val>Synergy-GPT</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Gpt_report</key>
+			<val>Synergy-GPTで抽出されたデータ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Teaching</key>
+			<val>ティーチング</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Teaching_report</key>
+			<val>ティーチングで抽出されたデータ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ExtractedQuantity</key>
+			<val>抽出された数量</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extraction_Informations</key>
+			<val>データ抽出方法</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_First Name</key>
+			<val>名</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_GenerateReplySuggestion</key>
+			<val>返信メールの例を作成</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Generic ERP submission returned one or more error reported in the ERP Information panel</key>
+			<val>ERP への注文の転記中に 1 つ以上のエラーが発生しました。詳細については、[ERP 情報] パネルを確認してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Header pricing conditions are not simulated, calculated total could be different.</key>
+			<val>ヘッダー価格条件がシミュレートされていません。計算された合計が異なる可能性があります。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Hide Parameters</key>
+			<val>処理オプションを非表示にする</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_INFOS</key>
+			<val>情報</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Last Name</key>
+			<val>姓</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load SAP order</key>
+			<val>SAP注文の値を読み込む</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_LookForAnswerToTheQuestionSuggestion</key>
+			<val>顧客の問い合わせへの回答を検索したい</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Material</key>
+			<val>品目</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Material found from the description. Make sure that it is correct</key>
+			<val>この品目は、抽出された説明から推測されました。値が正しいことを確認してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Missing Field '{0}' in header</key>
+			<val>ヘッダーにフィールド '{0}' がありません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Missing Field '{0}' line {1}</key>
+			<val>明細行 '{1}' にフィールド '{0}' がありません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Multiple customers</key>
+			<val>この注文に複数の顧客が特定されています。内容を確認し、必要に応じて顧客を更新してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Multiple customers and multiple shipping addresses</key>
+			<val>注文に複数の配送先住所と顧客が特定されています。内容を確認し、必要に応じて更新してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Multiple shipping addresses</key>
+			<val>この注文に複数の配送先住所が特定されています。内容を確認し、必要に応じて住所を更新してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Multiple valid contracts available</key>
+			<val>この顧客の契約が複数あります。1件選択してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactCheckBox</key>
+			<val>顧客連絡先</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDialogDescription</key>
+			<val>顧客ポータルへのアクセス権を持つ顧客連絡先として追加するメールアドレスを選択します。選択された連絡先と選択されていない連絡先の両方が受信者リストに追加され、自動補完の提案に使用されます。顧客連絡先の作成からメールドメインを除外するには、管理者に連絡してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDialogTitle</key>
+			<val>顧客連絡先を追加</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDisplayName</key>
+			<val>名前</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactEmailAddress</key>
+			<val>Emailアドレス</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_No mapping exist</key>
+			<val>この単位の組み合わせに対する変換係数が見つかりませんでした。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Numerator</key>
+			<val>Numerator</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Oracle submission returned one or more error reported in the ERP Information panel</key>
+			<val>Oracle への注文の転記中に 1 つ以上のエラーが発生しました。詳細については、[ERP 情報] パネルを確認してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Order Confirmations</key>
+			<val>注文確認</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Order ERP acknowledgement was not received in the default delay of {0} minutes, please contact your administrator</key>
+			<val>この注文の ERP 統合時間制限 ({0} 分) を超過しました。管理者に連絡してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Paid amount</key>
+			<val>支払額</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Partner Email</key>
+			<val>Email</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Partner Functions</key>
+			<val>追加のパートナー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Partner Functions Code</key>
+			<val>コード</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Partner Functions Description</key>
+			<val>説明</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_date</key>
+			<val>取引日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_error_code</key>
+			<val>支払エラーコード</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_pane</key>
+			<val>支払概要</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_processor</key>
+			<val>支払提供者</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_processor_fee</key>
+			<val>支払提供者手数料</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_processor_reference</key>
+			<val>支払提供者の参照</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_status</key>
+			<val>支払ステータス</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_type</key>
+			<val>支払方法</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_PaymentError</key>
+			<val>支払いエラー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Position</key>
+			<val>位置</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quantity does not match quantity computation</key>
+			<val>この数量は手入力されました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote Details</key>
+			<val>見積の詳細</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote not found</key>
+			<val>この見積番号の見積は見つかりませんでした。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote not yet valid</key>
+			<val>見積の有効期間は開始されていません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote Request</key>
+			<val>見積依頼</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote sales area not matching current sales area</key>
+			<val>見積の販売エリアが指定された販売エリアと一致しません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Reference document is not a contract</key>
+			<val>この値は、契約に相当しません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Reject</key>
+			<val>却下</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Requested quantity {0} has been changed to {1} in item {2}</key>
+			<val>明細品目 {2} の要求された数量 {0} が {1} に変更されました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Return Order</key>
+			<val>返品依頼</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SAP Order Number</key>
+			<val>SAP注文番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SAP Orders Title</key>
+			<val>SAP 注文</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SDACorrectedDocType</key>
+			<val>推奨される伝票の種類</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Search criteria is case sensitive</key>
+			<val>大文字/小文字を区別するフィールド</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SearchViewTitle</key>
+			<val>顧客注文</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select a customer before starting a conversation</key>
+			<val>顧客番号または名前を入力して、メッセージを送信する顧客を指定してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select a customer before starting a conversation popup title</key>
+			<val>新しいメッセージ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select reject reason</key>
+			<val>却下理由</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select SDA Document type</key>
+			<val>推奨される伝票の種類</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select set aside reason</key>
+			<val>理由</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SelectOrEnterAtLeastOneEmailAddress</key>
+			<val>メールアドレスを選択または入力してください...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Send message</key>
+			<val>新しいメッセージ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SendEmail</key>
+			<val>この返信を顧客に送信</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SetAside</key>
+			<val>一時退避</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SetAsideComment</key>
+			<val>取り消しコメント</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SetAsideReason</key>
+			<val>取り消し理由</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SetAsideTitle</key>
+			<val>一時退避</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Show Parameters</key>
+			<val>処理オプションを表示する</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Signature template</key>
+			<val>署名</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Simulation is limited to 4 pricing conditions per item but item {0} gets {1}, calculated total could be different.</key>
+			<val>シミュレーションは品目ごとに 4 価格条件に制限されていますが、明細品目 {0} は {1} を取得します。計算された合計が異なる可能性があります。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Simulation report failed</key>
+			<val>シミュレーションが失敗しました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Simulation results</key>
+			<val>シミュレーション結果</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SnackbarWarningChangeOrder</key>
+			<val>注文は、変更注文として検出されました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SOPParameters</key>
+			<val>処理オプション</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Source UOM</key>
+			<val>顧客単位</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_StockReplenishment</key>
+			<val>在庫補充</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Target UOM</key>
+			<val>単位</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_TeachingComment</key>
+			<val>注文テンプレートを説明するコメントを追加:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_TenderNumber</key>
+			<val>Tender code (CIG)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The document you tried to retrieve is not an order</key>
+			<val>このSAPドキュメントは、注文ではありません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The net value is {0} and it should be {1} in item {2}</key>
+			<val>正味額は {0} で、明細品目 {2} の場合は {1} になります</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The order is complete</key>
+			<val>このSAP注文は変更できません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The order is linked to customer {0}</key>
+			<val>このSAP注文は、顧客 {0} に関連付けられています。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The ordered quantity of {0} {1} exceeds the remaining quantity allowed by the customer's contract ({2} {3})</key>
+			<val>注文数（{0} {1}）が契約で許可されている残りの数量（{2} {3}）を超えています。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The sales order total should be {0}</key>
+			<val>注文合計金額は {0} です</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The sales order total should be {0} instead of {1}</key>
+			<val>注文合計金額は {1} ではなく、{0} です</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_There is no item in the document.</key>
+			<val>文書には明細品目がありません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Touchless changed {0}</key>
+			<val>これらのオプションは変更されました。この注文では、変更前の自動処理は「{1}」に設定されていました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_TouchlessErrorUnusualQuantity</key>
+			<val>異例の数量</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Transaction_id</key>
+			<val>支払参照番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Unexpected error message</key>
+			<val>エラーが発生しました。もう一度行ってください。問題が解決しない場合は、管理者に連絡してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Unload SAP order</key>
+			<val>PO値を復元する</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_User</key>
+			<val>社内担当者</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemoved</key>
+			<val>受信者が削除されました。 新しい会話が作成されます。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemovedDialogMessage</key>
+			<val>受信者を削除すると、新しい会話が作成されます。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemovedDialogTitle</key>
+			<val>新しいメッセージ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WARNINGS</key>
+			<val>警告</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Yes</key>
+			<val>削除</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>{0} ERP IDs have been entered. {1} ERP IDs were expected, separated by spaces.</key>
+			<val>{0} ID を入力しましたが、この注文は SAP で {1} 文書 ID を生成しました。これらの {1} ID をスペースで区切って入力してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>{0} more...</key>
+			<val>すべて表示...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>{0} Orders matching this change order found. Please select the right one</key>
+			<val>{0} 件のSAP注文がこのPO番号と一致しています。正しいものを選択してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>{0} units of measure were found for material '{1}'</key>
+			<val>この品目に、計量単位 {0} が使われています。「...」をクリックして、正しい計量単位を選択してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Action</key>
+			<val>アクション</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Add a SAP note</key>
+			<val>SAP テキスト</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Additional partners</key>
+			<val>追加のパートナー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Additional Partners</key>
+			<val>追加のパートナー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Address book</key>
+			<val>アドレス帳</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Advanced teaching tab</key>
+			<val>詳細</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Alert on duplicates</key>
+			<val>この顧客の重複に関するアラート</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>AlertMultiPostingWithWebServicesDesc</key>
+			<val>明細品目グループ化が Web サービス経由の SAP 統合と互換性がありません。管理者に連絡してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>AlertMultiPostingWithWebServicesTitle</key>
+			<val>SAP に転記できません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>All prices are correct.</key>
+			<val>すべてのの価格が ERP の価格と一致しています。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>An unexpected error occured with the SAP connectivity</key>
+			<val>SAP 接続で予期しないエラーが発生しました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>An unexpected error occured with the SAP connectivity. Retrying...</key>
+			<val>SAP 接続で予期しないエラーが発生しました。再試行しています...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Archive</key>
+			<val>アーカイブ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Archive only...</key>
+			<val>アーカイブのみ...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>At least one required field is missing.</key>
+			<val>1 つ以上の必須フィールドが空です。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatic Processing</key>
+			<val>自動処理</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatic processing failure reasons</key>
+			<val>事前チェックに失敗</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatic processing is possible</key>
+			<val>事前チェックが正常に終了</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatically modified fields</key>
+			<val>自動フィールド</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatically modified table fields</key>
+			<val>自動表フィールド</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Availability question</key>
+			<val>利用可能性問合せ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Billing block</key>
+			<val>請求ブロック</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Book</key>
+			<val>Oracle EBS で注文を予約</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Business area</key>
+			<val>事業部</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Cancel</key>
+			<val>キャンセル</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>CANCELLED</key>
+			<val>キャンセル済み</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Case_ID__</key>
+			<val>ケースのSalesforce ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Case_Number__</key>
+			<val>ケース番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Case_URL__</key>
+			<val>ケース番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Case_URL_Saved__</key>
+			<val>ケースURL</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ChangeOrderLineItemAction__</key>
+			<val>操作</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>City</key>
+			<val>市区町村</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Claim</key>
+			<val>クレーム</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Combined order</key>
+			<val>元の注文</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Comments:</key>
+			<val>コメント</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Complete delivery</key>
+			<val>納品完了</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Complete delivery text on document</key>
+			<val>納品完了キーワード</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Condition {0} is missing in pricing procedure {1} {2} {3}</key>
+			<val>条件 {0} が価格設定表 {1} {2} {3} にありません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ConfirmArchiving {0}</key>
+			<val>注文は正常に SAP 文書 ID {0} に関連付けられました。索引付けと将来の検索用に、ヘッダーフィールド情報が SAP から取得されました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Connection lost with SAP</key>
+			<val>SAP との接続が失われました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contact Email</key>
+			<val>連絡先電子メール</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contact login</key>
+			<val>接続</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Description</key>
+			<val>説明</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Description Column</key>
+			<val>説明</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Item Number Column</key>
+			<val>契約明細番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Item Title</key>
+			<val>契約明細</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Number</key>
+			<val>番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Number Column</key>
+			<val>番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Title</key>
+			<val>契約を選択</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Validity Begin Column</key>
+			<val>有効期限開始日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Validity End Column</key>
+			<val>有効期間終了日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ContractAvailableQuantity</key>
+			<val>契約残量</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ContractItemNumber</key>
+			<val>契約明細番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ContractNumber</key>
+			<val>契約番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Conversation</key>
+			<val>会話</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Conversation with {0}</key>
+			<val>{0}との会話</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Could not retrieve status of quote</key>
+			<val>見積状況を取得できませんでした。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Country</key>
+			<val>国</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Credit issue</key>
+			<val>信用確認</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Currency</key>
+			<val>顧客の通貨</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer '{0}' is inconsistent with partner '{1}'.</key>
+			<val>顧客番号 {0} とパートナー番号 {1} が一致しません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer '{0}' not found</key>
+			<val>顧客 '{0}' が見つかりません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer asked for cancellation</key>
+			<val>顧客からキャンセルが要求されました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer City</key>
+			<val>顧客市区郡</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Country</key>
+			<val>国</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Information</key>
+			<val>顧客情報</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer issue</key>
+			<val>顧客の問題</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Material</key>
+			<val>顧客品目</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Name</key>
+			<val>顧客名</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Number</key>
+			<val>顧客番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer number doesn't exist in the current organization</key>
+			<val>選択したオペレーティングユニットに顧客番号がありません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Order Processing</key>
+			<val>顧客注文</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Order Processing (distinguisher)</key>
+			<val>{0} (注文管理)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Postal Code</key>
+			<val>顧客郵便番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Region</key>
+			<val>顧客地域</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Street</key>
+			<val>顧客番地</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>CustomerVendor</key>
+			<val>外部顧客番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>CustomerVendor_report</key>
+			<val>外部顧客番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Default Order Type doesn't exist in the current organization</key>
+			<val>選択されたオペレーティングユニットのデフォルトの受注の種類が見つかりません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Deleted</key>
+			<val>拒否</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Delivery block</key>
+			<val>出荷ブロック
+</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Delivery date</key>
+			<val>納品希望日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Delivery date_report</key>
+			<val>納品日(ERP)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Description</key>
+			<val>説明</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch as attachment</key>
+			<val>各新規注文に添付ファイルとして追加する</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch attachments</key>
+			<val>文書の管理</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_Cancel</key>
+			<val>キャンセル</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_help_text</key>
+			<val>新しい注文ごとに添付として追加 - コンテキストヘルプ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_help_tooltip</key>
+			<val>[新規注文の作成] を選択すると、独立した顧客注文として、個別に文書を処理します。[各新規注文に添付ファイルとして追加する] を選択すると、このセクションから作成された各新規顧客注文に文書を添付します。顧客注文を処理するために必要ではない場合は、[破棄] を選択すると、文書を無視します。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_OK</key>
+			<val>完了</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_pane</key>
+			<val>文書の管理</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Display copo creation warning on conversation init</key>
+			<val>{0} との会話が始まります。これにより、カスタマーポータルに注文が自動で公開されます。続行しますか？</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Display publish on portal warning for conversation</key>
+			<val>{0} との会話が始まります。これにより、カスタマーポータルにドキュメントが自動で公開されます。続行しますか？</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Displays the Quantity/UoM column. You can capture an area containing a quantity and UoM to automatically fill the Quantity field.</key>
+			<val>測定単位がある場合には数量を自動抽出します。
+このオプションを選択すると「抽出された数量/測定単位」の列が「品目」テーブルに表示されます。
+注文の数量をダブルクリックすると、抽出された値が「抽出された数量/測定単位」の列と標準の「数量」の列に入力され、自動で更新されます。
+標準の「測定単位」の列は、「抽出された数量/測定単位」の列にある測定単位に更新されません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Displays the Unit Price/UoM column. You can capture an area containing a unit price and UoM to automatically fill the Unit Price field.</key>
+			<val>測定単位がある場合には単価を自動抽出します。
+このオプションを選択すると「抽出された単価/測定単位」の列が「品目」テーブルに表示されます。
+注文の単価をダブルクリックすると、抽出された値が「抽出された単価/測定単位」の列と標準の「単価」の列に入力され、自動で更新されます。
+標準の「測定単位」の列は、「抽出された単価/測定単位」の列にある測定単位に更新されません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Distribution channel</key>
+			<val>販売チャネル</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>District</key>
+			<val>地区</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Do not alert on duplicates</key>
+			<val>重複に関するアラートを表示しない</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Do not check duplicates for this document anymore</key>
+			<val>次回以降この文書の重複を確認しない</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document already processed</key>
+			<val>文書は既に処理されました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document automatically processed</key>
+			<val>自動処理された文書</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document ERP ID</key>
+			<val>文書 ERP ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document is not an order</key>
+			<val>異なる販売伝票の種類</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document Type</key>
+			<val>受注の種類
+</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>DocumentEDIWorkflowID</key>
+			<val>NSO 注文 ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship Address</key>
+			<val>直送住所</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to</key>
+			<val>名前</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to City</key>
+			<val>直送先市区郡</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to Country</key>
+			<val>直送先国</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to name</key>
+			<val>直送先名</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to name 2</key>
+			<val>追加の直送先名</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to Postal Code</key>
+			<val>直送先郵便番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to Region</key>
+			<val>直送先地域</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to Street</key>
+			<val>直送先番地</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>DropShipToAddress_TransportationZone_report</key>
+			<val>輸送ゾーン</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Due date</key>
+			<val>納品希望日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Duplicate document detected</key>
+			<val>重複が検出されました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Duplicates have been detected</key>
+			<val>重複が検出されました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI</key>
+			<val>EDI</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Format</key>
+			<val>EDI 規格</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Number</key>
+			<val>EDI 番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Status Code</key>
+			<val>状況コード</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Status Message</key>
+			<val>状況メッセージ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Status Text</key>
+			<val>ステータス</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Type</key>
+			<val>EDI 種別</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Version</key>
+			<val>EDI バージョン</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI_Pannel</key>
+			<val>EDI 経由での注文書の受信</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDITransmissionStatus</key>
+			<val>EDI delivery status</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDIWorkflowID</key>
+			<val>NSO フロー ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Email</key>
+			<val>Email</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>E-mail address</key>
+			<val>Emailアドレス</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Email was flagged with high importance</key>
+			<val>高優先度電子メールで受信した注文</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Empty or duplicate PO number</key>
+			<val>PO番号が空または注文の重複</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Enabled for this customer</key>
+			<val>このタイプのドキュメントでこの顧客に対して有効です</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Enter an order</key>
+			<val>注文入力</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP delivery date</key>
+			<val>納品予定日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP delivery date_report</key>
+			<val>納品予定日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP ID</key>
+			<val>ERP 文書 ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP Information</key>
+			<val>ERP 情報</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP Integration</key>
+			<val>ERP 統合</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERPOrderErrors</key>
+			<val>ERP エラーメッセージ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Error</key>
+			<val>エラー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERROR</key>
+			<val>失敗</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Error creating record MRU_PO</key>
+			<val>MRU_PO レコードの作成中にエラーが発生しました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Extracted Description</key>
+			<val>顧客説明</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Extracted from QuantityUoM</key>
+			<val>元データ: 自動学習 - 「抽出された数量/測定単位」フィールドから抽出された値</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Extracted from UnitPriceUoM</key>
+			<val>元データ: 自動学習 - 「抽出された単価/測定単位」フィールドから抽出された値</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ExtractedSAPTexts</key>
+			<val>SAP テキスト（JSON型式）</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ExtractedSAPTextsLanguage</key>
+			<val>SAP テキスト - 現在の言語（JSON型式）</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ExtractedSAPTextsLanguageList</key>
+			<val>SAP テキスト - 言語リスト（JSON型式）</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Failed to add bapi: {0}</key>
+			<val>BAPI を追加できませんでした{0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Failed to connect</key>
+			<val>SAP に接続できませんでした</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Failed to create Bapi Manager: {0}</key>
+			<val>BAPI Manager のインスタンスを作成できませんでした:{0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Failed to instantiate SAPProxy</key>
+			<val>SAPProxy のインスタンスを作成できませんでした</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Fax</key>
+			<val>Fax</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Forbidden : This name is forbidden</key>
+			<val>この名前は無効です。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Force approve</key>
+			<val>SAP に再転記</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Found Keyword: {0} in attachment</key>
+			<val>ドキュメントに '{0}' 件のキーワードがあります</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Found Keyword: {0} in e-mail body</key>
+			<val>電子メール本文でキーワード '{0}' が見つかりました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Found Keyword: {0} in e-mail subject</key>
+			<val>電子メール件名でキーワード '{0}' が見つかりました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>From configuration</key>
+			<val>事前設定済み</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Function</key>
+			<val>機能</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>General</key>
+			<val>設定</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>General Informations</key>
+			<val>一般情報</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Generic</key>
+			<val>汎用</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>genericLayoutDescription</key>
+			<val>リクエストが複数の顧客に関係する場合、ティーチングを担当するユーザーに、複数の顧客のティーチングリクエストを送信できます。注文テンプレートの名前を入力してください:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Hide SAP texts</key>
+			<val>SAP テキストを非表示</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Identifier</key>
+			<val>番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>IDOC {0} retrieved from SAP with status</key>
+			<val>IDOC {0} は次のステータスで SAP からインポートされました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>IDOC Message</key>
+			<val>IDOC ステータス情報</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>If at least 1 value is identical</key>
+			<val>1 つ以上の値が同じ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>If at least 2 values are identical</key>
+			<val>2 つ以上の値が同じ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>If at least 3 values are identical</key>
+			<val>3 つ以上の値が同じ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ignore simulation for post</key>
+			<val>シミュレーションの省略</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ignore simulation warnings</key>
+			<val>シミュレーション警告を無視する</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ignore this attachment</key>
+			<val>破棄</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inbound channel name</key>
+			<val>Inbound channel name</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Incoherent CustomerNumber and ShipToAddress</key>
+			<val>顧客情報と出荷先住所が一致しません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent data set: found more than 1 material with the EAN {0}.</key>
+			<val>EAN コード {0} には複数の品目があります。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent date</key>
+			<val>一致しない日付</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent due date</key>
+			<val>一致しない納品日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent Email</key>
+			<val>無効な電子メールアドレス</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent PO date</key>
+			<val>一致しない PO 日付</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Incoterms</key>
+			<val>インコタームズ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Incoterms2</key>
+			<val>インコタームズ 2</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Information</key>
+			<val>情報</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inserted</key>
+			<val>追加</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid customer number</key>
+			<val>無効な顧客番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid Email caracters</key>
+			<val>Emailアドレスは文字、数字、ドット（.）、ダッシュ（-）、アンダースコア（_）、アットマーク（@）のみ使用可能です。指定アドレスを修正、またはフィールドを空にしてください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid material</key>
+			<val>無効な品目</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid quantity</key>
+			<val>無効な数量</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid sales area key selected</key>
+			<val>選択した販売エリアが無効です。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid sales area: {0}</key>
+			<val>無効な販売エリア:{0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid ship to number</key>
+			<val>無効な出荷先番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid total</key>
+			<val>無効な合計金額</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid unit</key>
+			<val>無効な単位</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invoice question</key>
+			<val>請求書の問合せ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Is Line Item Split Order</key>
+			<val>複数の注文が ERP で生成されました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Is Sap Line Item Split Order</key>
+			<val>複数の注文が ERP で生成されました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item categories</key>
+			<val>品目分類</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item number</key>
+			<val>明細品目番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item reconciliation number</key>
+			<val>見積品目番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item Type</key>
+			<val>品目種別</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item_notif_recap</key>
+			<val>item</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ItemIdentifierType</key>
+			<val>品目識別タイプ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Items</key>
+			<val>品目</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Items_notif_recap</key>
+			<val>items</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ItemsCount</key>
+			<val>明細行数</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ItemValidationOrg</key>
+			<val>アイテム確認組織ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Itm Cat.</key>
+			<val>品目分類</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>jsonfromportal__</key>
+			<val>JSON 形式のポータル注文</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Layout Identifier</key>
+			<val>複数の顧客の注文テンプレート</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line Item Split Group Id</key>
+			<val>グループ化キー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line item split status</key>
+			<val>ERP統合</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line Number</key>
+			<val>明細番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line rejection reason</key>
+			<val>却下理由</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line Type</key>
+			<val>明細種別</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line Type Id</key>
+			<val>明細種別 ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>LineTypes</key>
+			<val>明細種別</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Load items from quote</key>
+			<val>見積から品目を読み込む</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Manually modified fields</key>
+			<val>手動フィールド</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Manually modified table fields</key>
+			<val>手動表フィールド</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material</key>
+			<val>ERP 品目</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material Description Column</key>
+			<val>説明</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material Information</key>
+			<val>品目</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material invalid</key>
+			<val>指定された ERP 品目番号の SAP テキストが見つかりませんでした。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material Number Column</key>
+			<val>ERP 品目</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material number doesn't exist in the current organization</key>
+			<val>選択したオペレーティングユニットに品目番号がありません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material number not found in ERP, please check this value</key>
+			<val>ERP で品目番号が見つかりません。この値を確認してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Maximum of records : {0}</key>
+			<val>最大結果数:{0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Message</key>
+			<val>メッセージ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Message details</key>
+			<val>メッセージ詳細</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Mobile Application</key>
+			<val>モバイルアプリケーション</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>More Sales Information</key>
+			<val>詳細販売情報</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Multiple candidates</key>
+			<val>この顧客には関連付けられた出荷先住所が複数あります</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Multiple SoldTo and ShipTo candidates</key>
+			<val>この配送先住所に複数の顧客が関連付けられています</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Name</key>
+			<val>名前</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Name 2</key>
+			<val>追加の名前</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>National Code</key>
+			<val>その他のID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NewMessageDefaultSubject</key>
+			<val>注文番号{0}に関する新しいメッセージ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NewMessageOK</key>
+			<val>OK</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No configured calculation procedure</key>
+			<val>設定された計算手順がありません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No match</key>
+			<val>一致が見つかりません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No matching order found with this change order</key>
+			<val>このPO番号と一致するSAP注文はありません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No material found for the customer material '{0}'</key>
+			<val>顧客品目 '{0}' の品目が見つかりません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No partner related to this delivery address found</key>
+			<val>この出荷先住所の出荷先番号が見つかりません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No ship to address found for customer '{0}'</key>
+			<val>顧客 '{0}' の出荷先住所が見つかりません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No shipping adress available for this customer in the current sales area</key>
+			<val>選択した顧客/販売エリアの組み合わせには配送先住所がありません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No unit found for the material '{0}'</key>
+			<val>品目 '{0}' の単位が見つかりません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Non-supported IDOC version</key>
+			<val>この IDOC バージョンはサポートされていません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Note language</key>
+			<val>言語</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Note text</key>
+			<val>備考</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Note type</key>
+			<val>タイプ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Notes</key>
+			<val>SAP テキスト</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Notes data</key>
+			<val>SAP テキスト詳細</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSO complete order</key>
+			<val>注文（完全版）</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSO simple order</key>
+			<val>注文（簡易版）</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSOLinkedOrderNotFound</key>
+			<val>この注文は、1件以上の既存の注文に関連付けられています。ただし、アプリケーションでこれらの注文が見つかりませんでした。管理者に連絡してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSOProcessType</key>
+			<val>NSO 処理タイプ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSORelatedOrderExists : {0}</key>
+			<val>この伝票は、1件以上の既存の注文に関連付けられています。ERPでこの伝票を手動で処理してください。ホームページの上部からNSOフローID {0} の検索を実行して、関連する注文を探しだせます。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSORelatedOrderExistsTitle</key>
+			<val>情報</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number</key>
+			<val>番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number of automatically modified fields</key>
+			<val>自動フィールド数</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number of automatically modified table fields</key>
+			<val>自動表フィールド数</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number of manually modified fields</key>
+			<val>手動フィールド数</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number of manually modified table fields</key>
+			<val>手動表フィールド数</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Only Orders IDOC are supported</key>
+			<val>'Orders' タイプの IDOC のみがサポートされます。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Open related case in Salesforce</key>
+			<val>Salesforceでケースを表示</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Open related order</key>
+			<val>最初の注文を表示</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Operating Unit</key>
+			<val>事業組織</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Options</key>
+			<val>SAP 転記オプション</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Oracle EBS</key>
+			<val>Oracle EBS</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Oracle Web Service Error: {0}</key>
+			<val>Oracle EBS Web サービスエラー:{0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OracleOrderErrors</key>
+			<val>Oracle エラーメッセージ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OraclePostingOptions</key>
+			<val>Oracle EBS 転記オプション</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OracleRequestId</key>
+			<val>Oracle 要求 ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order {0} generated in SAP</key>
+			<val>SAP 注文 {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order category code</key>
+			<val>分類</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Creation Error</key>
+			<val>発注書作成エラー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Processing Delay (days)</key>
+			<val>SLAから経過した時間（日数）</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Processing Duration (minutes)</key>
+			<val>注文処理時間（分）</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order question</key>
+			<val>注文問合せ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order reason</key>
+			<val>注文の理由</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order status</key>
+			<val>状況</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type</key>
+			<val>受注の種類
+</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type doesn't exist in the current organization</key>
+			<val>選択されたオペレーティングユニットの受注の種類が見つかりません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type has several matches for this name</key>
+			<val>この名前は、複数の受注の種類IDと一致します。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type ID</key>
+			<val>受注の種類ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type Name</key>
+			<val>名前</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type_report</key>
+			<val>受注の種類 (Oracle EBS)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderAccepted</key>
+			<val>2 - 確認済み</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderAcceptedOracle</key>
+			<val>2 - 確認済み</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderArchived</key>
+			<val>アーカイブ済み</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderCancelled</key>
+			<val>9 - キャンセル済み</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderConfirmed</key>
+			<val>確認済み</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderCreationError</key>
+			<val>ERP での注文作成エラー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderDelivered</key>
+			<val>4 - 納品済み</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderEntered</key>
+			<val>2 - 確認済み</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderPartiallyAccepted</key>
+			<val>ERP統合は部分的に失敗しました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderReceived</key>
+			<val>5 - 受領済み</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderShipped</key>
+			<val>3 - 出荷済み</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderTypes</key>
+			<val>受注の種類</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Other</key>
+			<val>その他</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PAID</key>
+			<val>正常</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Parameters</key>
+			<val>オプション</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Part number issue</key>
+			<val>品目番号発行</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PARTIALLYPAID</key>
+			<val>一部支払済み</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner function {0} has already been used for another partner</key>
+			<val>機能 {0} は既に別のパートナーが使用しています。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner function {0} is not allowed. You can use one of the following : </key>
+			<val>パートナー機能 {0} は許可されていません。次のいずれかを使用できます: </val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner ID</key>
+			<val>番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner Information</key>
+			<val>出荷先住所</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner name</key>
+			<val>パートナー名</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner not found</key>
+			<val>パートナーが見つかりません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner number doesn't exist in the current organization</key>
+			<val>選択したオペレーティングユニットにパートナー番号がありません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Payment Terms</key>
+			<val>支払条件</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Payt Terms</key>
+			<val>支払条件</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>per</key>
+			<val>ごと</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Phone</key>
+			<val>電話番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Plant</key>
+			<val>プラント
+</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Plants</key>
+			<val>プラント</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please check that the following fields are filled in: {0}, {1}, {2}, {3}, {4} and {5}.</key>
+			<val>価格チェックを実行するには、次のフィールドが必須です。- {0} - {1} - {2} - {3} - {4} - {5} 正しく入力されているかどうかを確認してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please enter below the ERP Document ID you want to associate for the file being processed</key>
+			<val>この伝票を手動で更新された注文にリンクするには、ERP伝票IDを入力してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please enter below the ERP Document IDs you want to associate for the file being processed</key>
+			<val>この注文に関連付ける SAP 文書 ID を入力します。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please enter below the SAP Document ID you want to associate for the file being processed</key>
+			<val>現在のファイルに関連付ける SAP 文書 ID を入力します。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please fill a valid customer for ship to</key>
+			<val>使用可能な出荷先住所を検索するには、有効な顧客情報を入力してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please specify a customer number.</key>
+			<val>顧客番号を指定してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please specify a sales area.</key>
+			<val>販売エリアを指定してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please specify a sales office.</key>
+			<val>営業所を指定してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please specify an Item</key>
+			<val>一致する SAP テキストを取得するには、ERP 品目番号を指定する必要があります。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PO Box</key>
+			<val>私書箱</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PO date</key>
+			<val>PO 日付</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PO number</key>
+			<val>PO 番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PO number and Customer number needed to search for order</key>
+			<val>顧客番号とPO番号を指定してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval content1</key>
+			<val>SAP で注文が重複している可能性があります。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval content2</key>
+			<val>注文が既に SAP で作成されているかどうかを確認してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval content3</key>
+			<val>注文が SAP で正常に作成されている場合は、[アーカイブのみ] ボタンを使用して、この注文を対応する SAP 文書 ID に関連付けてください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval content4</key>
+			<val>そうでない場合は、注文をもう一度転記してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval subtitle</key>
+			<val>この注文の SAP への転記中にエラーが発生しました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval title</key>
+			<val>SAP で注文が重複している可能性</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Portal</key>
+			<val>ポータル</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Portal Information</key>
+			<val>ポータル情報</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Post</key>
+			<val>承認</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Post and wait for SAP document number</key>
+			<val>結果を転記しています。お待ちください</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Postal Code</key>
+			<val>郵便番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Pre Agreed Form</key>
+			<val>事前合意済注文を開く</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price check</key>
+			<val>価格の確認</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price check - Oracle Web Service Error</key>
+			<val>価格チェックが失敗しました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price check warning({0}): {1}</key>
+			<val>{1} (Oracle EBS エラーコード:{0})</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price check warning: expected Total = '{0} ({1})'. Unit Price = '{2} ({3})'.</key>
+			<val>ERP でのこの品目の単価は {3} {2} です。想定された明細合計は {1} {0} です。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price discrepancies</key>
+			<val>ERP との価格ミスマッチ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price list</key>
+			<val>価格リスト</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PriceList</key>
+			<val>価格リスト</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PriceList_Id</key>
+			<val>価格リスト ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Pricing condition data</key>
+			<val>価格条件詳細</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Pricing conditions</key>
+			<val>価格条件</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Pricing issue</key>
+			<val>価格の問題</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Priority</key>
+			<val>優先度</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Process Name</key>
+			<val>処理名</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Product list</key>
+			<val>品目</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Product question</key>
+			<val>製品に関する問合せ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Property not defined in database</key>
+			<val>マスターデータでこの情報が見つかりませんでした</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Property not defined in EDI file</key>
+			<val>注文でこの情報が見つかりませんでした</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quantity</key>
+			<val>数量</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quantity does not match the remaining quantity from quote: {0}</key>
+			<val>この数量は見積品目の残りの数量と一致しません:{0}。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quantity UoM</key>
+			<val>抽出された数量/測定単位</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quantity UoM visible</key>
+			<val>数量/測定単位の組み合わせから数量を取得</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Item Number Column</key>
+			<val>見積品目番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Item Title</key>
+			<val>見積品目</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Number</key>
+			<val>見積番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Number Column</key>
+			<val>番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Total</key>
+			<val>見積金額</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Validity Column</key>
+			<val>有効期間終了日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotations Title</key>
+			<val>見積を選択</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote request</key>
+			<val>見積依頼</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote Valid From Column</key>
+			<val>有効期限開始日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote_End_Date</key>
+			<val>有効期間終了日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote_Start_Date</key>
+			<val>有効期限開始日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>QuoteAvailableQuantity</key>
+			<val>見積残量</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Rate</key>
+			<val>料金</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Reception datetime</key>
+			<val>受信日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Region</key>
+			<val>地域</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>RejectComment</key>
+			<val>却下コメント</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>RejectReason</key>
+			<val>却下理由</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Reload line items from the order</key>
+			<val>注文項目を復元</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Remaining net Column</key>
+			<val>残額</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Remaining quantity Column</key>
+			<val>残数量</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Request teaching</key>
+			<val>学習の要求</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Request teaching pending</key>
+			<val>ティーチングリクエストが送信されるまでお待ちください…</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Request teaching...</key>
+			<val>学習の要求...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ResultsList</key>
+			<val>結果リスト</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Revised order</key>
+			<val>変更注文</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Revised order_report</key>
+			<val>変更注文</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Rule length exceeded : 20 characters maximum</key>
+			<val>最大文字数は 20 です。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Running total</key>
+			<val>計算合計金額</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Area</key>
+			<val>販売エリア</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales group</key>
+			<val>販売グループ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Information</key>
+			<val>販売情報</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales office</key>
+			<val>営業所</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Order {0} (customer: {1}, amount: {2}, date:{3})</key>
+			<val>注文 {0} (顧客:{1}, 金額:{2}, 日付:{3})</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Order Details</key>
+			<val>注文詳細</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales order priority</key>
+			<val>注文優先度</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales organization</key>
+			<val>販売組織</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Person</key>
+			<val>営業担当者</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SalesDocumentType__</key>
+			<val>販売伝票の種類</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SalesForce</key>
+			<val>Salesforce</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SalesRep_Id</key>
+			<val>営業担当者 ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SalesRepID</key>
+			<val>販売の割り当てグループ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP Error</key>
+			<val>SAP エラー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP ID</key>
+			<val>SAP 文書 ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP Information</key>
+			<val>SAP 情報</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sap Line Item Split Document Id</key>
+			<val>ERP 文書 ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP returned an incorrect simulation report.</key>
+			<val>SAP は正しくないシミュレーションレポートを返しました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP Simulation</key>
+			<val>SAP シミュレーション</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP simulation timeout.</key>
+			<val>SAPシミュレーションがタイムアウトピリオド内に終了しませんでした。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP texts</key>
+			<val>SAP テキスト</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP timeout</key>
+			<val>タイムアウト時間内にSAP接続が確立されませんでした。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP view {0} is not available</key>
+			<val>SAP で次のビューが見つかりません:{0}。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP_Simulation_Error__</key>
+			<val>SAPシミュレーションエラー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP_Simulation_Warning__</key>
+			<val>SAPシミュレーション警告</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Search</key>
+			<val>検索</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Search key</key>
+			<val>検索キー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Selected partner</key>
+			<val>選択</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Send an email</key>
+			<val>電子メールの送信</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Send confirmation notification</key>
+			<val>注文処理通知を送信</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship Method</key>
+			<val>出荷方法</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship method is not available for selected warehouse</key>
+			<val>選択した倉庫では、この出荷方法を使用できません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to</key>
+			<val>名前</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Address</key>
+			<val>出荷先住所</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Captured Address</key>
+			<val>直送</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Captured Address Action</key>
+			<val>直送</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to City</key>
+			<val>出荷先市区郡</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Country</key>
+			<val>出荷先国</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to name</key>
+			<val>出荷先名</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to name 2</key>
+			<val>追加の出荷先名</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Number</key>
+			<val>出荷先番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to number '{0}' not found</key>
+			<val>出荷先番号 '{0}' が見つかりません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Postal Code</key>
+			<val>出荷先郵便番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Region</key>
+			<val>出荷先地域</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Street</key>
+			<val>出荷先番地</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Shipping Address</key>
+			<val>出荷先住所</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Shipping condition</key>
+			<val>出荷条件</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Shipping date</key>
+			<val>出荷日</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShipToAddress</key>
+			<val>出荷先住所</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShipToAddressHelpText</key>
+			<val>注文の配送先住所を手動で取得することで配送先住所の認識を向上させることができます。&lt;br&gt;
+このフィールドをクリックし、ドキュメントプレビューの配送先住所ブロックをマウスの左クリックを抑えながら選択します。&lt;br&gt;
+この住所の位置が、今後の類似したレイアウトの配送先住所の自動検出に使用されます。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShipToAddressPlaceHolder</key>
+			<val>注文の納品先住所ゾーンを選択...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>shiptoediaddress__</key>
+			<val>EDI 注文 - 出荷先住所</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShiptoVendor</key>
+			<val>外部出荷先番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShiptoVendor_report</key>
+			<val>外部出荷先番号</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Show extracted description column</key>
+			<val>「顧客説明」を表示する</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Show SAP texts</key>
+			<val>SAP テキストを表示</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Simulate</key>
+			<val>シミュレート</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Simulation Report</key>
+			<val>シミュレーションレポート</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Skip price check</key>
+			<val>価格チェックの省略</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SLAMet</key>
+			<val>SLAの目標時間内に対応完了</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Automatic processing__</key>
+			<val>注文管理 - 自動処理</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Complete Delivery Mapping__</key>
+			<val>注文管理 - 完全な納品キーワードマッピング</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Configuration__</key>
+			<val>注文管理設定</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Currencies__</key>
+			<val>注文管理 - 通貨</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Customer material mapping autolearn__</key>
+			<val>注文管理 - 品目マッピングの修正</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Customers__</key>
+			<val>注文管理 - 顧客</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Duplicate alert__</key>
+			<val>注文管理 - 重複アラート</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - ERP/Customer material mapping__</key>
+			<val>注文管理 - 品目マッピング</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - External partner identifier mapping__</key>
+			<val>注文管理 - 外部パートナー番号/内部パートナー番号のマッピング</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Global filters__</key>
+			<val>注文管理 - グローバルフィルター</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - LineTypes__</key>
+			<val>注文管理 - 行のタイプ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Materials__</key>
+			<val>注文管理 - 品目</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - OrderTypes__</key>
+			<val>注文管理 - 受注の種類</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Organizations__</key>
+			<val>注文管理 - 事業組織</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Partners__</key>
+			<val>注文管理 - パートナー</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - PriceLists__</key>
+			<val>注文管理 - 価格表</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - SalesPerson__</key>
+			<val>注文管理 - 営業担当者</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Ship to address/number mapping__</key>
+			<val>注文管理 - 出荷先住所/出荷先番号マッピング</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - ShipMethod__</key>
+			<val>注文管理 - 配送方法</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Sold to address/number mapping__</key>
+			<val>注文管理 - 販売先住所/顧客番号のマッピング</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - TaxCodes__</key>
+			<val>注文管理 - 税コード</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Units of measure/Material mapping__</key>
+			<val>注文管理 - 測定単位/品目</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Units of measure__</key>
+			<val>注文管理 - 測定単位</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - UOM Conversion__</key>
+			<val>注文管理 - 測定単位の変換</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Warehouses__</key>
+			<val>注文管理 - 倉庫</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SoldToAddress</key>
+			<val>顧客の住所</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SoldToAddressHelpText</key>
+			<val>注文の顧客の住所を手動で取得することで顧客の住所の認識を向上させることができます。&lt;br&gt;
+このフィールドをクリックし、ドキュメントプレビューの顧客の住所ブロックをマウスの左クリックを抑えながら選択します。&lt;br&gt;
+この住所の位置が、今後の類似したレイアウトの顧客の住所の自動検出に使用されます。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SoldToAddressPlaceHolder</key>
+			<val>注文の顧客の住所ゾーンを選択...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>soldtoediaddress__</key>
+			<val>EDI 注文 - 請求先住所</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Some prices are not correct.</key>
+			<val>1 つ以上の価格が ERP の価格と一致しません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Source</key>
+			<val>受信方法</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SourceSubject</key>
+			<val>Email 件名</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Split Order</key>
+			<val>明細項目のグループ化後に分割</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Standard</key>
+			<val>標準</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Standard Order (TA)</key>
+			<val>標準注文 (TA)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Standard teaching tab</key>
+			<val>標準</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>standardLayoutDescription</key>
+			<val>ティーチングを担当するユーザーに、顧客 # {0} が発行した注文の認識を改善するようリクエストを送信しようとしています。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Stock issue</key>
+			<val>出庫</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Storage location</key>
+			<val>保管場所</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Storage Location</key>
+			<val>保管箇所</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Street</key>
+			<val>番地</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Subject</key>
+			<val>件名</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Submit as new separate order</key>
+			<val>新しい注文の作成</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Success</key>
+			<val>完了</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Table</key>
+			<val>テーブル</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Target quantity Column</key>
+			<val>目標数</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Tax Code</key>
+			<val>税コード</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Teach customer address</key>
+			<val>顧客の住所を範囲指定する
+</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Teach shipping address</key>
+			<val>配送先住所を範囲指定する</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The customer number is required</key>
+			<val>顧客番号は必須です</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The customer number is required for teaching</key>
+			<val>学習要求を送信する前に、顧客番号を入力する必要があります。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The document you tried to retrieve is not a quotation</key>
+			<val>この値は、見積に相当しません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The ERP Document ID is requiered to archive only</key>
+			<val>この注文をアーカイブするには、SAP 文書 ID を入力する必要があります。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The expected total price of this item in the ERP is {0} {1}.</key>
+			<val>想定された明細合計は {1} {0} です。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The expected unit price of this item in the ERP is {0} {1}.</key>
+			<val>ERP でのこの品目の単価は {1} {0} です。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The material is required</key>
+			<val>品目は必須です</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The quotation is linked to customer {0}</key>
+			<val>この見積は顧客 {0} に関連付けられています。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The quote is completed</key>
+			<val>見積は完了しています。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The running total and total do not match</key>
+			<val>抽出された合計が計算された合計と一致しません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The sales order date is required</key>
+			<val>POの日付を指定してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The SAP Document ID is requiered to archive only</key>
+			<val>このファイルをアーカイブするには、SAP 文書 ID を入力する必要があります。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The teaching request has been successfully submitted</key>
+			<val>ティーチングリクエストは送信されました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The teaching request has failed</key>
+			<val>ティーチングリクエストの送信中にエラーが発生しました。管理者に連絡してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The total does not match the total outstanding amount of the quotation</key>
+			<val>合計が見積の合計残高と一致しません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The total must equal the sum of the line item totals ({0})</key>
+			<val>合計金額は明細品目の合計 ({0}) と等しくなければなりません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The validity date of the quote is exceeded</key>
+			<val>見積の有効期限を過ぎました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The value does not exist</key>
+			<val>値が存在しません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The value must be greater than 0</key>
+			<val>値は 0 より大きくなければなりません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There are several addresses associated to this customer. Please choose one among the following:</key>
+			<val>この顧客には複数のアドレスが関連付けられています。次のいずれかを選択してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There are several customers associated to this partner. Please choose one among the following:</key>
+			<val>このパートナーには複数の顧客が関連付けられています。次のいずれかを選択してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is a risk of duplicates for the following document(s):</key>
+			<val>次の文書が重複している可能性があります。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is more than one partner for this ShipTo number</key>
+			<val>このパートナーには複数の顧客が関連付けられています。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is more than one partner related to this delivery address</key>
+			<val>この配送先住所に複数のパートナーが関連付けられています。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is no existing mapping between the shipping address and the ship-to number</key>
+			<val>配送先住所と配送先番号の間にマッピングはありません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is no line item associated with the quote number you specified</key>
+			<val>この注文には指定された見積に記載された項目がいずれも含まれていません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is no SAP order matching this number: {0}</key>
+			<val>ID '{0}' は SAP の注文と一致しません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This document is associated with ERP Document ID</key>
+			<val>このファイルは ERP 文書 ID に関連付けられています</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This document is associated with SAP Document ID</key>
+			<val>関連付けられた SAP 文書 ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This document is associated with SAP Document IDs</key>
+			<val>関連付けられた SAP 文書 ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This field corresponds to the delivery date specified on the customer order</key>
+			<val>これは顧客注文に指定された納品日です。ドキュメントに納品日が表示されない場合は、このフィールドを空にしてください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This field is required and its value must be greater than 0</key>
+			<val>このフィールドは必須です。値は 0 より大きくなければなりません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This material ID has been changed automatically based on previous similar orders</key>
+			<val>この品目番号は、以前の類似した注文に基づいて、自動的に修正されました。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This order contains a new message from your customer</key>
+			<val>新着メッセージがあります。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This order is coming from portal so please check this date</key>
+			<val>注文が承認された時点で、顧客にはこの日付の確認が送信されます。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This ShipTo address is not related to the SoldTo.</key>
+			<val>この配送先住所は顧客の住所に関連付けられていません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>To</key>
+			<val>宛先</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Total</key>
+			<val>合計金額</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Total does not match the total of the remaining articles from quote: {0}</key>
+			<val>この金額は見積品目の残り金額と一致しません:{0}。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Total does not match unit price and quantity values</key>
+			<val>数量、単価、合計の値が一致しません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Touchless error revised order</key>
+			<val>変更注文</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Touchless error revised order_report</key>
+			<val>変更注文</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Tracking Url</key>
+			<val>外部トラッキングURL</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Type</key>
+			<val>タイプ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>TypeChangeOrder</key>
+			<val>変更注文</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>TypeOrder</key>
+			<val>Order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>TypeQuoteRequest</key>
+			<val>見積依頼</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>TypeReturnOrder</key>
+			<val>返品依頼</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unable to make the Web Service call.</key>
+			<val>Oracle EBS Web サービスとの接続を確立できません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unable to manage the price_request call response.</key>
+			<val>Oracle EBS Web サービスとの接続を確立できません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unauthorized characters : the authorized special characters are : space, underscore, parenthesis and dash</key>
+			<val>次の特殊文字のみを使用できます。_ () - および空白。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unchanged</key>
+			<val>なし</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit</key>
+			<val>単位</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit '{0}' does not match the material '{1}'</key>
+			<val>単位 '{0}' は品目 '{1}' と一致しません</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit price</key>
+			<val>単価</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit Price UoM</key>
+			<val>抽出された単価/測定単位</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit Price UoM visible</key>
+			<val>単価/測定単位の組み合わせから単価を取得</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit_report</key>
+			<val>単位</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unknown customer</key>
+			<val>不明な顧客</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unknown material</key>
+			<val>不明な品目</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unreadable order</key>
+			<val>判読できない販売伝票</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unusual quantity</key>
+			<val>異例の数量</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>UoM Column</key>
+			<val>単位</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Updated</key>
+			<val>修正</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Urgent</key>
+			<val>緊急</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Value from database ({0}) differs from the one in order ({1})</key>
+			<val>マスターデータテーブルの値 ({0}) が注文の値 ({1}) と異なります</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Waiting for customer answer</key>
+			<val>お客様からの返答待ち</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouse</key>
+			<val>倉庫</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouse Code</key>
+			<val>倉庫コード</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouse code doesn't exist in the current organization</key>
+			<val>選択した組織単位の倉庫コードが見つかりません。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouse Name</key>
+			<val>名前</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouses</key>
+			<val>倉庫</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warning details title</key>
+			<val>警告詳細</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warning message title</key>
+			<val>警告メッセージ</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You are about to send a teaching request for customer number: {0}</key>
+			<val>ティーチングを担当するユーザーに、顧客 # {0} が発行した注文の認識を改善するようリクエストを送信しようとしています。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You are about to send an email</key>
+			<val>文書と添付ファイルを電子メールで送信しようとしています。複数の電子メールアドレスを区切るには、セミコロンを使用してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You have a partner with a function but without an ID</key>
+			<val>指定のパートナー機能に一致するパートナー番号を入力してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You must choose an item before browsing its warehouse</key>
+			<val>最初に品目を選択してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You must choose an order type first</key>
+			<val>先に受注の種類を選択してください。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You must have a least one document to dispatch.</key>
+			<val>このアクションを実行するには、2 つ以上の文書が必要です。</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Your order for {0} has been confirmed</key>
+			<val>{0} の注文が確認されました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Your order for {0} has been rejected</key>
+			<val>{0} の注文がキャンセルされました</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Your SAP Document ID is : {0}</key>
+			<val>文書は正常に SAP に転記されました。SAP 文書 ID:{0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Your SAP Document IDs are : {0}</key>
+			<val>Your documents have been posted successfully in SAP.SAP 文書 ID は {0} です。</val>
+		</TranslateItem>
+	</items>
+</TranslateCollection>

@@ -1,0 +1,3101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslateCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" frozen="false">
+	<items>
+		<TranslateItem>
+			<key>__Plant</key>
+			<val>Fabriek</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_A valid contract is mandatory</key>
+			<val>Geen geldig contract gevonden voor deze klant.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Account_number</key>
+			<val>Rekeningnummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_AcknowledgeSimulationWarnings</key>
+			<val>Simulatiewaarschuwingen bevestigen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Actions_pane</key>
+			<val>Acties</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Add original email content</key>
+			<val>Originele e-mail tonen in het gesprek</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Advanced Shipping Notices</key>
+			<val>Aankondigingen van verzending</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Alert on duplicates changed {0}</key>
+			<val>Deze opties zijn gewijzigd. Voor deze order was de drempelwaarde voor dubbele waarschuwingen aanvankelijk ingesteld op '{0}'.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Alert on duplicates changed {0}_Touchless changed {1}</key>
+			<val>Deze opties zijn gewijzigd. Voor deze order was de drempelwaarde voor dubbele waarschuwingen aanvankelijk ingesteld op '{0}’ en automatische verwerking was ‘{1}’.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_An error occurred while loading contract</key>
+			<val>Er is een fout opgetreden bij het uploaden van het contract. Gelieve het later nogmaals te proberen.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_An error occurred while loading quote</key>
+			<val>Er is een fout opgetreden bij het uploaden van de offerte. Gelieve het nogmaals te proberen.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ArchiveOnlyChangeOrderCancellationText</key>
+			<val>Dit document bevestigt, wijzigt of annuleert een bestaande order. Werk de overeenkomstige order handmatig bij in uw ERP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Automatic Processing</key>
+			<val>Instellingen automatische verwerking</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse date from</key>
+			<val>Zoeken van</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse date to</key>
+			<val>Tot</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse PO Date</key>
+			<val>PO-datum</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse PO Number</key>
+			<val>PO-nummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse SAP Document Id</key>
+			<val>SAP-ordernummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Cancel Order in SAP</key>
+			<val>Alle items weigeren in SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_brand</key>
+			<val>Kaartverschaffer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_expiration</key>
+			<val>Vervaldatum</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_holder</key>
+			<val>kaarthouder</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_number</key>
+			<val>Kaartnummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_type</key>
+			<val>Kaarttype</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Change Order</key>
+			<val>Gewijzigde order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Change Orders</key>
+			<val>Geschiedenis Gewijzigde order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ChatGPT answer</key>
+			<val>Antwoord gegenereerd met ChatGPT</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Comment</key>
+			<val>Opmerking</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Computed quantity</key>
+			<val>Deze hoeveelheid is automatisch geconverteerd.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ComputingParametersWaiting</key>
+			<val>Verwerkingsopties laden...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Confirmed quantity is {0} for schedule line date {1} in item {2}</key>
+			<val>Bevestigde hoeveelheid is {0} voor gepland datum {1} en regelitem {2}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract cannot be referenced due to its completed status</key>
+			<val>Deze waarde komt overeen met een voltooid contract.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract no longer valid</key>
+			<val>Dit contract is verlopen.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract not found</key>
+			<val>Geen contracten gevonden voor dit contractnummer.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract not yet valid</key>
+			<val>The contract geldigheidsduur is niet gestart.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract partner not matching current sold-to</key>
+			<val>De verkocht-aan van het contract komt niet overeen met de opgegeven klant.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract sales area not matching current sales area</key>
+			<val>Het verkoopgebied van het contract komt niet overeen met het opgegeven gebied.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract type not supported</key>
+			<val>Dit type contract wordt niet ondersteund.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation cc</key>
+			<val>cc</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation email bad format</key>
+			<val>Voer een geldig e-mailadres in.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation email linked to another customer</key>
+			<val>is geregistreerd als contactpersoon van een andere klant.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation message</key>
+			<val>Bericht</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation template</key>
+			<val>Template</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation to</key>
+			<val>Aan</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation unable to send message</key>
+			<val>Bericht verzenden mislukt</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation will create new customer</key>
+			<val>is niet geregistreerd als contactpersoon van deze klant.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation will create one or more new customers</key>
+			<val>zijn niet geregistreerd als contactpersonen van deze klant.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Csv_Non_Extracted_data_loss</key>
+			<val>Een nieuwe order uploaden zal alle handmatig ingevoerde gegevens overschrijven. Wilt u doorgaan?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Csv_Non_Extracted_data_loss_title</key>
+			<val>Huidige gegevens vervangen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Customer</key>
+			<val>Klantcontacten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Customer material Id {0} is not defined for sales area {1} and customer number {2}.</key>
+			<val>ID artikel klant {0} is niet bepaald voor verkoopgebied {1} en klantnummer {2}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_CustomerUnit</key>
+			<val>Maateenh. klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_CustomerUnit_report</key>
+			<val>Maateenheid klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_CustomerUnitBrowseTitle</key>
+			<val>Maateenheid klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DeleteAllLinesButton</key>
+			<val>Alle regels verwijderen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DeleteAllLinesMessage</key>
+			<val>Weet u zeker dat u alle regels wilt verwijderen?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DeleteAllLinesTitle</key>
+			<val>Verwijderen bevestigen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Denominator</key>
+			<val>Deler</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_disabled</key>
+			<val>uitgeschakeld</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Do not show this warning again</key>
+			<val>Dit bericht niet meer tonen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Document {0} has been created but error occurred during update, the document is incomplete.</key>
+			<val>Document {0} is aangemaakt maar er is een fout opgetreden bij het bijwerken en het document is onvolledig.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Down payment percentage</key>
+			<val>Vooruitbetaling (%)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DropShipToAddress_Language</key>
+			<val>Taalcode communicatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DropShipToAddress_Language_report</key>
+			<val>Taalcode communicatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DropShipToAddress_TransportationZone</key>
+			<val>Transportzone</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Duplicates</key>
+			<val>Duplicaten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_enabled</key>
+			<val>ingeschakeld</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ErrorDuplicateFieldsUnrecognized</key>
+			<val>Een of meer velden geconfigureerd voor controle op duplicaten bestaan niet in dit formulier. Neem contact op met uw beheerder.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ERRORS</key>
+			<val>Fouten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_External</key>
+			<val>Overige contactpersonen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Autolearning</key>
+			<val>Zelf lerend</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Autolearning_report</key>
+			<val>Gegevens opgehaald via Automatisch leren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Gpt</key>
+			<val>Synergy-GPT</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Gpt_report</key>
+			<val>Gegevens opgehaald via Synergy-GPT</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Teaching</key>
+			<val>Opleiding</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Teaching_report</key>
+			<val>Gegevens opgehaald via Leren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ExtractedQuantity</key>
+			<val>Extr. hoev</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extraction_Informations</key>
+			<val>Methode om gegevens op te halen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_First Name</key>
+			<val>Voornaam</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_GenerateReplySuggestion</key>
+			<val>Stel een antwoord e-mail voor</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Generic ERP submission returned one or more error reported in the ERP Information panel</key>
+			<val>Een of meer fouten zijn opgetreden bij het boeken van de order naar de ERP. Raadpleeg het deelvenster ‘ERP-informatie’ voor meer details.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Header pricing conditions are not simulated, calculated total could be different.</key>
+			<val>Prijsvoorwaarden titel zijn niet gesimuleerd, berekend totaal kan verschillend zijn.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Hide Parameters</key>
+			<val>Verwerkingsopties verbergen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_INFOS</key>
+			<val>Informatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Last Name</key>
+			<val>Familienaam</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load SAP order</key>
+			<val>SAP-orderwaarden laden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_LookForAnswerToTheQuestionSuggestion</key>
+			<val>Wat is het antwoord op het verzoek van de klant?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Material</key>
+			<val>Artikel</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Material found from the description. Make sure that it is correct</key>
+			<val>Dit artikel is afgeleid van de opgehaalde beschrijving.  Controleer of deze correct is.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Missing Field '{0}' in header</key>
+			<val>Veld '{0}' ontbreekt in koptekst.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Missing Field '{0}' line {1}</key>
+			<val>Veld '{0}' ontbreekt in regel '{1}'.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Multiple customers</key>
+			<val>Er zijn meerdere klanten in de order geïdentificeerd. De klant herzien en bijwerken indien nodig.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Multiple customers and multiple shipping addresses</key>
+			<val>Er zijn meerdere verzendadressen en klanten in de order geïdentificeerd. Herzien en bijwerken indien nodig.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Multiple shipping addresses</key>
+			<val>Er zijn meerdere verzendadressen in de order geïdentificeerd. Het adres herzien en bijwerken indien nodig.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Multiple valid contracts available</key>
+			<val>Meerdere contracten gevonden voor deze klant. Gelieve er één te selecteren.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactCheckBox</key>
+			<val>Klantcontactpersoon</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDialogDescription</key>
+			<val>Selecteer de e-mailadressen die u wilt toevoegen als contactpersonen voor de klant met toegang tot de portal voor de klant. Zowel geselecteerde als niet-geselecteerde contactpersonen worden toegevoegd aan uw lijst met ontvangers en worden gebruikt voor suggesties om automatisch aan te vullen. Neem contact op met uw beheerder als u bepaalde e-maildomeinen wilt uitsluiten wanneer u contactpersonen aanmaakt.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDialogTitle</key>
+			<val>Klantcontactpersoon toevoegen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDisplayName</key>
+			<val>Naam</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactEmailAddress</key>
+			<val>E-mailadres</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_No mapping exist</key>
+			<val>Geen conversiefactoren gevonden voor deze combinatie van eenheden.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Numerator</key>
+			<val>Teller</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Oracle submission returned one or more error reported in the ERP Information panel</key>
+			<val>Een of meer fouten zijn opgetreden bij het boeken van de order naar Oracle. Raadpleeg het deelvenster ‘ERP-informatie’ voor meer details.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Order Confirmations</key>
+			<val>Orderbevestigingen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Order ERP acknowledgement was not received in the default delay of {0} minutes, please contact your administrator</key>
+			<val>De tijdslimiet voor ERP-integratie voor deze order ({0} minuten) is overschreden. Neem contact op met uw beheerder.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Paid amount</key>
+			<val>Betaald bedrag</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Partner Email</key>
+			<val>E-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Partner Functions</key>
+			<val>Aanvullende partners</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Partner Functions Code</key>
+			<val>Code</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Partner Functions Description</key>
+			<val>Beschrijving</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_date</key>
+			<val>Datum transactie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_error_code</key>
+			<val>Foutcode betaling </val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_pane</key>
+			<val>Betalingsoverzicht</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_processor</key>
+			<val>Betalingsverschaffer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_processor_fee</key>
+			<val>Kosten betalingsverschaffer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_processor_reference</key>
+			<val>Referentie betalingsverschaffer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_status</key>
+			<val>Betalingstatus</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_type</key>
+			<val>Betaalwijze</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_PaymentError</key>
+			<val>Fout betaling</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Position</key>
+			<val>Positie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quantity does not match quantity computation</key>
+			<val>Deze hoeveelheid is handmatig ingevoerd.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote Details</key>
+			<val>Details offerte</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote not found</key>
+			<val>Er is geen offerte gevonden met dit offertenummer.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote not yet valid</key>
+			<val>De geldigheidsduur van de offerte is niet gestart.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote Request</key>
+			<val>Offerteaanvraag</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote sales area not matching current sales area</key>
+			<val>Het verkoopgebied van de offerte komt niet overeen met het opgegeven verkoopgebied.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Reference document is not a contract</key>
+			<val>Deze waarde komt niet overeen met het contract.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Reject</key>
+			<val>Weigeren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Requested quantity {0} has been changed to {1} in item {2}</key>
+			<val>Gevraagde hoeveelheid {0} is gewijzigd naar {1} voor regelitem {2}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Return Order</key>
+			<val>Retourbestelling</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SAP Order Number</key>
+			<val>SAP-ordernummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SAP Orders Title</key>
+			<val>SAP-order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SDACorrectedDocType</key>
+			<val>Voorgesteld documenttype</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Search criteria is case sensitive</key>
+			<val>Hoofdlettergevoelig veld</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SearchViewTitle</key>
+			<val>Klantorders</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select a customer before starting a conversation</key>
+			<val>Voer een klantnummer of naam in om op te geven welke klant u een bericht wilt sturen.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select a customer before starting a conversation popup title</key>
+			<val>Nieuw bericht</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select reject reason</key>
+			<val>Reden weigering</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select SDA Document type</key>
+			<val>Voorgesteld documenttype</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select set aside reason</key>
+			<val>Reden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SelectOrEnterAtLeastOneEmailAddress</key>
+			<val>Selecteer of voer een e-mailadres in...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Send message</key>
+			<val>Nieuw gesprek</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SendEmail</key>
+			<val>Dit antwoord naar de klant verzenden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SetAside</key>
+			<val>Opzij zetten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SetAsideComment</key>
+			<val>Opmerking opzij zetten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SetAsideReason</key>
+			<val>Reden opzij zetten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SetAsideTitle</key>
+			<val>Opzij zetten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Show Parameters</key>
+			<val>Verwerkingsopties tonen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Simulation is limited to 4 pricing conditions per item but item {0} gets {1}, calculated total could be different.</key>
+			<val>Simulatie is beperkt tot 4 prijsvoorwaarden per item maar regelitem {0} krijgt {1}, het berekende totaal kan verschillend zijn.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Simulation report failed</key>
+			<val>De simulatie is mislukt.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Simulation results</key>
+			<val>Resultaten simulatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SnackbarWarningChangeOrder</key>
+			<val>Bestelling gedetecteerd als gewijzigde order  </val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SOPParameters</key>
+			<val>Verwerkingsopties</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Source UOM</key>
+			<val>Klant Maateenheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_StockReplenishment</key>
+			<val>Aanvulling voorraad</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Target UOM</key>
+			<val>Maateenheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_TeachingComment</key>
+			<val>Voeg een opmerking toe om de bestellingtemplate te beschrijven:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_TenderNumber</key>
+			<val>Offertecode (CIG)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The document you tried to retrieve is not an order</key>
+			<val>Dit SAP-document is geen order.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The net value is {0} and it should be {1} in item {2}</key>
+			<val>De nettowaarde is {0} en zou {1} moeten zijn voor regel item {2}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The order is complete</key>
+			<val>Deze SAP-order kan niet worden gewijzigd.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The order is linked to customer {0}</key>
+			<val>Deze SAP-order is gekoppeld aan klant {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The ordered quantity of {0} {1} exceeds the remaining quantity allowed by the customer's contract ({2} {3})</key>
+			<val>De bestelde hoeveelheid ({0} {1}) overschrijdt de resterende toegestane hoeveelheid van het contract ({2} {3}).</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The sales order total should be {0}</key>
+			<val>Het totaal van de verkooporder moet {0} zijn</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The sales order total should be {0} instead of {1}</key>
+			<val>Het totaal van de verkooporder moet {0} zijn in plaats van {1}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_There is no item in the document.</key>
+			<val>Geen regelitem gevonden in document.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Touchless changed {0}</key>
+			<val>Deze opties zijn gewijzigd. Voor deze order was automatische verwerking aanvankelijk {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_TouchlessErrorUnusualQuantity</key>
+			<val>Ongebruikelijke hoeveelheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Transaction_id</key>
+			<val>Betalingskenmerk</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Unexpected error message</key>
+			<val>Er is een fout opgetreden, probeer het opnieuw. Neem contact op met uw beheerder als het probleem aanhoudt.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Unload SAP order</key>
+			<val>PO-waarden herstellen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_User</key>
+			<val>Interne contactpersonen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemoved</key>
+			<val>Een ontvanger is verwijderd Er zal een nieuw gesprek worden aangemaakt.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemovedDialogMessage</key>
+			<val>Een ontvanger verwijderen maakt een nieuw gesprek aan.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemovedDialogTitle</key>
+			<val>Nieuw gesprek</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WARNINGS</key>
+			<val>Waarschuwingen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Yes</key>
+			<val>Verwijderen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>{0} ERP IDs have been entered. {1} ERP IDs were expected, separated by spaces.</key>
+			<val>U hebt {0} ID’s ingevoerd maar deze order heeft {1} document-ID’s gegenereerd in SAP. Voer deze {1} ID’s in, gescheiden door spaties.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>{0} more...</key>
+			<val>Alles tonen...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>{0} Orders matching this change order found. Please select the right one</key>
+			<val>Er zijn {0} SAP-orders die overeenkomen met dit PO-nummer. Selecteer de juiste.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>{0} units of measure were found for material '{1}'</key>
+			<val>{0} maateenheden gevonden voor dit artikel.  Klik op ‘...’ en selecteer de juiste maateenheid.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Action</key>
+			<val>Actie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Add a SAP note</key>
+			<val>SAP-teksten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Additional partners</key>
+			<val>Aanvullende partners</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Additional Partners</key>
+			<val>Aanvullende partners</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Address book</key>
+			<val>Adresboek</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Advanced teaching tab</key>
+			<val>Geavanceerd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Alert on duplicates</key>
+			<val>Waarschuwen bij duplicaten voor deze klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>AlertMultiPostingWithWebServicesDesc</key>
+			<val>Groepering regelitems is incompatibel met uw SAP-integratie via Webservices. Neem contact op met uw beheerder.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>AlertMultiPostingWithWebServicesTitle</key>
+			<val>Kan niet boeken in SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>All prices are correct.</key>
+			<val>Alle prijzen komen overeen met de prijzen in de ERP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>An unexpected error occured with the SAP connectivity</key>
+			<val>Er is een onverwachte fout opgetreden met de SAP-verbinding.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>An unexpected error occured with the SAP connectivity. Retrying...</key>
+			<val>Er is een onverwachte fout opgetreden met de SAP-verbinding. Opnieuw proberen...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Archive</key>
+			<val>Archiveren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Archive only...</key>
+			<val>Alleen archiveren...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>At least one required field is missing.</key>
+			<val>Een of meer verplichte velden zijn leeg.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatic Processing</key>
+			<val>Automatische verwerking</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatic processing failure reasons</key>
+			<val>Voorafgaande controles niet geslaagd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatic processing is possible</key>
+			<val>Voorafgaande controles met succes voltooid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatically modified fields</key>
+			<val>Geautomatiseerde velden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatically modified table fields</key>
+			<val>Geautomatiseerde tabelvelden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Availability question</key>
+			<val>Aanvraag beschikbaarheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Billing block</key>
+			<val>Blok facturering</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Book</key>
+			<val>Order boeken in Oracle EBS</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Business area</key>
+			<val>Afdeling</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Cancel</key>
+			<val>Annuleren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>CANCELLED</key>
+			<val>Geannuleerd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Case_ID__</key>
+			<val>Salesforce-ID dossier</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Case_Number__</key>
+			<val>Dossiernummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Case_URL__</key>
+			<val>Dossiernummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Case_URL_Saved__</key>
+			<val>URL dossier</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ChangeOrderLineItemAction__</key>
+			<val>Handeling</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>City</key>
+			<val>Stad</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Claim</key>
+			<val>Vordering</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Combined order</key>
+			<val>Originele order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Comments:</key>
+			<val>Opmerkingen:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Complete delivery</key>
+			<val>Volledige levering</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Complete delivery text on document</key>
+			<val>Trefwoorden volledige levering</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Condition {0} is missing in pricing procedure {1} {2} {3}</key>
+			<val>Voorwaarde {0} ontbreekt in prijsprocedure {1} {2} {3}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ConfirmArchiving {0}</key>
+			<val>De order is gekoppeld met SAP-document ID {0}. De informatie in het veld koptekst werd opgehaald uit SAP voor indexering en toekomstige zoekopdrachten.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Connection lost with SAP</key>
+			<val>De verbinding met SAP is verbroken.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contact Email</key>
+			<val>E-mail contactpersoon</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contact login</key>
+			<val>Contact</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Description</key>
+			<val>Beschrijving</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Description Column</key>
+			<val>Beschrijving</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Item Number Column</key>
+			<val>Contract item #</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Item Title</key>
+			<val>Contract Item</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Number</key>
+			<val>Nummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Number Column</key>
+			<val>Nummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Title</key>
+			<val>Contract selecteren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Validity Begin Column</key>
+			<val>Geldig vanaf</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Validity End Column</key>
+			<val>Geldig tot</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ContractAvailableQuantity</key>
+			<val>Resterende contract hoeveelheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ContractItemNumber</key>
+			<val>Contract item #</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ContractNumber</key>
+			<val>Contract nummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Conversation</key>
+			<val>Gesprekken</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Conversation with {0}</key>
+			<val>Gesprekken met {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Could not retrieve status of quote</key>
+			<val>Status offerte kon niet worden opgehaald.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Country</key>
+			<val>Land</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Credit issue</key>
+			<val>Kredietcontrole</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Currency</key>
+			<val>Valuta klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer '{0}' is inconsistent with partner '{1}'.</key>
+			<val>Klantnummer {0} en partnernummer {1} komen niet overeen.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer '{0}' not found</key>
+			<val>Klant '{0}’ niet gevonden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer asked for cancellation</key>
+			<val>Annulering gevraagd door klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer City</key>
+			<val>Stad klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Country</key>
+			<val>Land klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Information</key>
+			<val>Klantgegevens</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer issue</key>
+			<val>Probleem klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Material</key>
+			<val>Extr. artikel</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Name</key>
+			<val>Klantnaam</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Number</key>
+			<val>Klantnummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer number doesn't exist in the current organization</key>
+			<val>Klantnummer niet gevonden voor de geselecteerde werkeenheid.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Order Processing</key>
+			<val>Klantorder</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Order Processing (distinguisher)</key>
+			<val>{0} (OM)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Postal Code</key>
+			<val>Postcode klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Region</key>
+			<val>Regio klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Street</key>
+			<val>Straat klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>CustomerVendor</key>
+			<val>Extern klantnr.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>CustomerVendor_report</key>
+			<val>Extern klantnr.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Default Order Type doesn't exist in the current organization</key>
+			<val>Geen standaard ordertype gevonden voor de geselecteerde werkeenheid.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Deleted</key>
+			<val>Weigering</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Delivery block</key>
+			<val>Blok levering</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Delivery date</key>
+			<val>Vereiste leveringsdatum</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Delivery date_report</key>
+			<val>Leveringsdatum (ERP)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Description</key>
+			<val>Beschrijving</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch as attachment</key>
+			<val>Toevoegen als bijlage voor elke nieuwe order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch attachments</key>
+			<val>Documenten beheren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_Cancel</key>
+			<val>Annuleren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_help_text</key>
+			<val>Toevoegen als bijlage bij elke nieuwe order - Help in context</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_help_tooltip</key>
+			<val>Selecteer ‘Nieuw order aanmaken’ om een document afzonderlijk te verwerken als onafhankelijk klantorder. Selecteer ‘Toevoegen als bijlage voor elke nieuwe order’ om een document bij te voegen bij elke nieuwe klantorder die wordt aangemaakt voor dit deel. Selecteren ‘Negeren’ om een document te negeren als het niet vereist is om de klantorder te verwerken.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_OK</key>
+			<val>Voltooien</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_pane</key>
+			<val>Documenten beheren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Display copo creation warning on conversation init</key>
+			<val>U wilt een gesprek starten met {0}, waardoor de order automatisch wordt gepubliceerd op diens klantportal. Wilt u doorgaan?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Display publish on portal warning for conversation</key>
+			<val>U wilt een gesprek starten met {0}, waardoor het document automatisch wordt gepubliceerd op diens klantportal. Wilt u doorgaan?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Displays the Quantity/UoM column. You can capture an area containing a quantity and UoM to automatically fill the Quantity field.</key>
+			<val>Hiermee wordt de hoeveelheid automatisch opgehaald wanneer deze gevolgd wordt door een maateenheid. Als deze optie is geselecteerd, wordt de kolom ‘Extr. hoev/maateenheid’ weergegeven in de tabel ‘Items’. Wanneer u dubbelklikt op de orderhoeveelheid, wordt de waarde ingevuld in de kolom ‘Extr. hoev/maateenheid’ en wordt de standaardkolom ‘Hoeveelheid’ automatisch bijgewerkt met de opgehaalde waarde. De standaardkolom ‘Maateenheid’ wordt niet bijgewerkt met de maateenheid die is gevonden in de kolom ‘Extr. hoev/maateenheid’.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Displays the Unit Price/UoM column. You can capture an area containing a unit price and UoM to automatically fill the Unit Price field.</key>
+			<val>Hiermee wordt de eenheidsprijs automatisch opgehaald wanneer deze gevolgd wordt door een maateenheid. Als deze optie is geselecteerd, wordt de kolom ‘Extr. eenheidsprijs/maateenheid’ weergegeven in de tabel ‘Items’. Wanneer u dubbelklikt op de eenheidsprijs van de order, wordt de waarde ingevuld in de kolom ‘Extr. eenheidsprijs/maateenheid’ en wordt de standaardkolom ‘Eenheidsprijs’ automatisch bijgewerkt met de opgehaalde waarde. De standaardkolom ‘Maateenheid’ wordt niet bijgewerkt met de maateenheid die is gevonden in de kolom ‘Extr. eenheidsprijs/maateenheid’.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Distribution channel</key>
+			<val>Distributiekanaal</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>District</key>
+			<val>District</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Do not alert on duplicates</key>
+			<val>Niet waarschuwen bij duplicaten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Do not check duplicates for this document anymore</key>
+			<val>Niet meer controleren op duplicaten voor dit document</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document already processed</key>
+			<val>Document reeds verwerkt</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document automatically processed</key>
+			<val>Document automatisch verwerkt</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document ERP ID</key>
+			<val>ID ERP-document</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document is not an order</key>
+			<val>Verkeerd type verkoopsdocument</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document Type</key>
+			<val>Ordertype</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>DocumentEDIWorkflowID</key>
+			<val>ID NSO-order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship Address</key>
+			<val>Adres dropshipping</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to</key>
+			<val>Naam</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to City</key>
+			<val>Stad dropshipping</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to Country</key>
+			<val>Land dropshipping</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to name</key>
+			<val>Naam dropshipping</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to name 2</key>
+			<val>Aanvullende naam dropshipping</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to Postal Code</key>
+			<val>Postcode dropshipping</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to Region</key>
+			<val>Regio dropshipping</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to Street</key>
+			<val>Straat dropshipping</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>DropShipToAddress_TransportationZone_report</key>
+			<val>Transportzone</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Due date</key>
+			<val>Vereiste leveringsdatum</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Duplicate document detected</key>
+			<val>Duplicaat gedetecteerd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Duplicates have been detected</key>
+			<val>Er zijn duplicaten gedetecteerd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI</key>
+			<val>EDI</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Format</key>
+			<val>EDI-standaard</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Number</key>
+			<val>EDI-nummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Status Code</key>
+			<val>Statuscode</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Status Message</key>
+			<val>Statusbericht</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Status Text</key>
+			<val>Status</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Type</key>
+			<val>EDI-type</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Version</key>
+			<val>EDI-versie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI_Pannel</key>
+			<val>Ontvangstbewijs van orders via EDI</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDITransmissionStatus</key>
+			<val>Leveringsstatus EDI</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDIWorkflowID</key>
+			<val>ID NSO-stroom</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Email</key>
+			<val>E-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>E-mail address</key>
+			<val>E-mailadres</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Email was flagged with high importance</key>
+			<val>Order ontvangen via e-mail met hoge prioriteit</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Empty or duplicate PO number</key>
+			<val>Leeg PO-nummer of duplicaat van order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Enabled for this customer</key>
+			<val>Ingeschakeld voor deze klant op dit type document</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Enter an order</key>
+			<val>Order invoeren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP delivery date</key>
+			<val>Geschatte leveringsdatum</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP delivery date_report</key>
+			<val>Geschatte leveringsdatum</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP ID</key>
+			<val>ID ERP-document</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP Information</key>
+			<val>ERP-informatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP Integration</key>
+			<val>ERP-integratie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERPOrderErrors</key>
+			<val>ERP-foutbericht</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Error</key>
+			<val>Fout</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERROR</key>
+			<val>Mislukt</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Error creating record MRU_PO</key>
+			<val>Er is een fout opgetreden bij de aanmaak van de registratie MRU_PO.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Extracted Description</key>
+			<val>Extr. beschrijving </val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Extracted from QuantityUoM</key>
+			<val>Oorsprong: Automatisch leren - Waarde opgehaald van veld ‘Extr. hoev/maateenheid'</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Extracted from UnitPriceUoM</key>
+			<val>Oorsprong: Automatisch leren - Waarde opgehaald van veld ‘Extr. eenheidsprijs/maateenheid'</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ExtractedSAPTexts</key>
+			<val>SAP-teksten (JSON-indeling)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ExtractedSAPTextsLanguage</key>
+			<val>SAP-teksten - Huidige taal (JSON-indeling)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ExtractedSAPTextsLanguageList</key>
+			<val>SAP-teksten - Lijst talen (JSON-indeling)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Failed to add bapi: {0}</key>
+			<val>BAPI toevoegen mislukt: {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Failed to connect</key>
+			<val>Verbinding met SAP mislukt</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Failed to create Bapi Manager: {0}</key>
+			<val>Instantie van BAPI Manager aanmaken mislukt: {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Failed to instantiate SAPProxy</key>
+			<val>Instantie van SAPProxy aanmaken mislukt:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Fax</key>
+			<val>Fax</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Forbidden : This name is forbidden</key>
+			<val>Deze naam is niet geldig.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Force approve</key>
+			<val>Opnieuw boeken naar SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Found Keyword: {0} in attachment</key>
+			<val>Trefwoord '{0}' gevonden in document</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Found Keyword: {0} in e-mail body</key>
+			<val>Trefwoord '{0}' gevonden in tekst e-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Found Keyword: {0} in e-mail subject</key>
+			<val>Trefwoord '{0}' gevonden in onderwerp e-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>From configuration</key>
+			<val>Vooraf geconfigureerd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Function</key>
+			<val>Functie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>General</key>
+			<val>Configuratie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>General Informations</key>
+			<val>Algemene informatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Generic</key>
+			<val>Universeel</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>genericLayoutDescription</key>
+			<val>Als uw verzoek over diverse klanten gaat, kunt u een scholingsverzoek voor meerdere klanten indienen bij de gebruiker die verantwoordelijk is voor aanleren. Vooer een naam in voor je bestellingtemplate:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Hide SAP texts</key>
+			<val>SAP-teksten verbergen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Identifier</key>
+			<val>Nummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>IDOC {0} retrieved from SAP with status</key>
+			<val>IDOC {0} is geïmporteerd uit SAP met de volgende status</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>IDOC Message</key>
+			<val>Informatie EDI-status</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>If at least 1 value is identical</key>
+			<val>Als minstens 1 waarde identiek is</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>If at least 2 values are identical</key>
+			<val>Als minstens 2 waarden identiek zijn</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>If at least 3 values are identical</key>
+			<val>Als minstens 3 waarden identiek zijn</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ignore simulation for post</key>
+			<val>Simulatie overslaan</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ignore simulation warnings</key>
+			<val>Waarschuwingen simulatie negeren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ignore this attachment</key>
+			<val>Negeren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inbound channel name</key>
+			<val>Naam inkomend kanaal</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Incoherent CustomerNumber and ShipToAddress</key>
+			<val>Klantgegevens en verzendadres komen niet overeen.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent data set: found more than 1 material with the EAN {0}.</key>
+			<val>Er is meer dan één artikel met EAN-code {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent date</key>
+			<val>Datum komt niet overeen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent due date</key>
+			<val>Leveringsdatum komt niet overeen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent Email</key>
+			<val>Ongeldig e-mailadres</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent PO date</key>
+			<val>PO-datum komt niet overeen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Incoterms</key>
+			<val>Incoterms</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Incoterms2</key>
+			<val>Incoterms 2</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Information</key>
+			<val>Informatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inserted</key>
+			<val>Toevoeging</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid customer number</key>
+			<val>Ongeldig klantnummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid Email caracters</key>
+			<val>Het e-mailadres mag alleen letters, cijfers, punten (.), streepjes (-), underscores (_) en apenstaartjes (@) bevatten. Corrigeer het opgegeven adres of maak het veld leeg.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid material</key>
+			<val>Ongeldig artikel</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid quantity</key>
+			<val>Ongeldige hoeveelheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid sales area key selected</key>
+			<val>Het geselecteerde verkoopgebied is ongeldig.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid sales area: {0}</key>
+			<val>Ongeldig verkoopgebied: {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid ship to number</key>
+			<val>Ongeldig nummer ontvanger</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid total</key>
+			<val>Ongeldig totaal</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid unit</key>
+			<val>Ongeldige eenheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invoice question</key>
+			<val>Vraag factuur</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Is Line Item Split Order</key>
+			<val>Meerdere orders gegenereerd in ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Is Sap Line Item Split Order</key>
+			<val>Meerdere orders gegenereerd in ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item categories</key>
+			<val>Itemcategorieën</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item number</key>
+			<val>Nummer regelitem</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item reconciliation number</key>
+			<val>Offerte item (regelitems)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item Type</key>
+			<val>Type item</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item_notif_recap</key>
+			<val>item</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ItemIdentifierType</key>
+			<val>Type identificatie item</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Items</key>
+			<val>Items</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Items_notif_recap</key>
+			<val>items</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ItemsCount</key>
+			<val>Aant. regels</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ItemValidationOrg</key>
+			<val>ID organisatie itemvalidatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Itm Cat.</key>
+			<val>Itemcat.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>jsonfromportal__</key>
+			<val>Order portal in JSON-indeling</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Layout Identifier</key>
+			<val>Bestellingtemplate voor meerdere klanten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line Item Split Group Id</key>
+			<val>Code voor groeperen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line item split status</key>
+			<val>ERP-integratie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line Number</key>
+			<val>Regelnr.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line rejection reason</key>
+			<val>Reden weigering</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line Type</key>
+			<val>Regeltype</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line Type Id</key>
+			<val>Regeltype-ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>LineTypes</key>
+			<val>Regeltypes</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Load items from quote</key>
+			<val>Items laden van offerte</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Manually modified fields</key>
+			<val>Handmatige velden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Manually modified table fields</key>
+			<val>Handmatige tabelvelden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material</key>
+			<val>ERP-artikel</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material Description Column</key>
+			<val>Beschrijving</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material Information</key>
+			<val>Artikelinformatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material invalid</key>
+			<val>Er is geen SAP-tekst gevonden voor het opgegeven ERP-artikelnummer.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material Number Column</key>
+			<val>ERP-artikel</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material number doesn't exist in the current organization</key>
+			<val>Artikelnummer niet gevonden voor de geselecteerde werkeenheid.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material number not found in ERP, please check this value</key>
+			<val>Artikelnummer niet gevonden in ERP, controleer deze waarde.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Maximum of records : {0}</key>
+			<val>Maximum aantal resultaten: {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Message</key>
+			<val>Bericht</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Message details</key>
+			<val>Details bericht</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Mobile Application</key>
+			<val>Mobile application</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>More Sales Information</key>
+			<val>Aanvullende verkoopinformatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Multiple candidates</key>
+			<val>Er zijn meerdere verzendadressen gekoppeld aan deze klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Multiple SoldTo and ShipTo candidates</key>
+			<val>Er zijn meerdere klanten gekoppeld aan dit verzendadres</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Name</key>
+			<val>Naam</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Name 2</key>
+			<val>Aanvullende naam</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>National Code</key>
+			<val>Overige identificatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NewMessageDefaultSubject</key>
+			<val>Nieuw bericht over order nr. {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NewMessageOK</key>
+			<val>OK</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No configured calculation procedure</key>
+			<val>Geen berekeningsprocedure geconfigureerd.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No match</key>
+			<val>Geen overeenkomst gevonden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No matching order found with this change order</key>
+			<val>Geen SAP-order gevonden met dit PO-nummer.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No material found for the customer material '{0}'</key>
+			<val>Geen artikel gevonden voor klantenartikel '{0}'</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No partner related to this delivery address found</key>
+			<val>Geen nummer ontvanger gevonden voor dit verzendadres</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No ship to address found for customer '{0}'</key>
+			<val>Geen verzendadres gevonden voor klant '{0}'</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No shipping adress available for this customer in the current sales area</key>
+			<val>Geen verzendadres gevonden voor de geselecteerde combinatie van klant/verkoopgebied.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No unit found for the material '{0}'</key>
+			<val>Geen eenheid gevonden voor het artikel'{0}'</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Non-supported IDOC version</key>
+			<val>Deze IDOC-versie wordt niet ondersteund.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Note language</key>
+			<val>Taal</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Note text</key>
+			<val>Tekst</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Note type</key>
+			<val>Type</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Notes</key>
+			<val>SAP-teksten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Notes data</key>
+			<val>Details SAP-tekst</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSO complete order</key>
+			<val>Complete order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSO simple order</key>
+			<val>Simple order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSOLinkedOrderNotFound</key>
+			<val>Deze order is gekoppeld aan één of meer bestaande orders. We konden deze orders echter niet vinden in uw toepassing. Neem contact op met uw beheerder.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSOProcessType</key>
+			<val>NSO process type</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSORelatedOrderExists : {0}</key>
+			<val>Dit document is gekoppeld aan één of meer bestaande orders. Verwerkt deze handmatig in uw ERP.
+
+Zoek de gekoppelde orders via een zoekopdracht op ID NSO-stroom {0} bovenaan op uw startpagina.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSORelatedOrderExistsTitle</key>
+			<val>Informatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number</key>
+			<val>Nummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number of automatically modified fields</key>
+			<val>Aantal geautomatiseerde velden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number of automatically modified table fields</key>
+			<val>Aantal geautomatiseerde tabelvelden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number of manually modified fields</key>
+			<val>Aantal handmatige velden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number of manually modified table fields</key>
+			<val>Aantal handmatige tabelvelden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Only Orders IDOC are supported</key>
+			<val>Alleen IDOC’s van het type ‘Orders’ worden ondersteund.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Only the default unit '{0}' matches the material '{1}'</key>
+			<val>Voer de standaardeenheid ‘{0}’ in voor dit item ({1}).</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Open related case in Salesforce</key>
+			<val>Dossier bekijken in Salesforce</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Open related order</key>
+			<val>Initiële order bekijken</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Operating Unit</key>
+			<val>Werkeenheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Options</key>
+			<val>Opties SAP-boeking</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Oracle EBS</key>
+			<val>Oracle EBS</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Oracle Web Service Error: {0}</key>
+			<val>Fout Oracle EBS Webservice: {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OracleOrderErrors</key>
+			<val>Oracle-foutbericht</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OraclePostingOptions</key>
+			<val>Opties Oracle EBS-boeking</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OracleRequestId</key>
+			<val>ID Oracle-verzoek</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order {0} generated in SAP</key>
+			<val>SAP-order {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order category code</key>
+			<val>Categorie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Creation Error</key>
+			<val>Fout bij aanmaak order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Processing Delay (days)</key>
+			<val>Tijd verstreken sinds SLA (dagen)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Processing Duration (minutes)</key>
+			<val>Tijd orderverwerking (minuten)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order question</key>
+			<val>Vraag order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order reason</key>
+			<val>Reden order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order status</key>
+			<val>Status order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type</key>
+			<val>Ordertype</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type doesn't exist in the current organization</key>
+			<val>Ordertype niet gevonden voor de geselecteerde werkeenheid.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type has several matches for this name</key>
+			<val>Deze naam komt overeen met meerdere ID’s van ordertypes.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type ID</key>
+			<val>Ordertype-ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type Name</key>
+			<val>Naam</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type_report</key>
+			<val>Ordertype (Oracle EBS)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderAccepted</key>
+			<val>Goedgekeurd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderAcceptedOracle</key>
+			<val>Geboekt</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderArchived</key>
+			<val>Gearchiveerd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderCancelled</key>
+			<val>Geweigerd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderConfirmed</key>
+			<val>Bevestigd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderCreationError</key>
+			<val>Fout bij aanmaak order in ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderDelivered</key>
+			<val>Afgeleverd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderEntered</key>
+			<val>Ingevoerd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderPartiallyAccepted</key>
+			<val>ERP-integratie deels mislukt</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderReceived</key>
+			<val>Levering bevestigd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderShipped</key>
+			<val>Verzonden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderTypes</key>
+			<val>Ordertypes</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Other</key>
+			<val>Overige</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PAID</key>
+			<val>Geslaagd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Parameters</key>
+			<val>Opties</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Part number issue</key>
+			<val>Probleem artikelnummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PARTIALLYPAID</key>
+			<val>Gedeeltelijk betaald</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner Affiliation</key>
+			<val>Toegewezen party</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner function {0} has already been used for another partner</key>
+			<val>Functie {0} wordt al gebruikt voor een andere partner.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner ID</key>
+			<val>Nummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner Information</key>
+			<val>Verzendadres</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner name</key>
+			<val>Naam partner</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner not found</key>
+			<val>Partner niet gevonden.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner number doesn't exist in the current organization</key>
+			<val>Partnernummer niet gevonden voor de geselecteerde werkeenheid.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Payment Terms</key>
+			<val>Betalingstermijnen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Payt Terms</key>
+			<val>Bet.termijnen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>per</key>
+			<val>per</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Phone</key>
+			<val>Telefoonnummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Plant</key>
+			<val>Fabriek</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Plants</key>
+			<val>Fabrieken</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please check that the following fields are filled in: {0}, {1}, {2}, {3}, {4} and {5}.</key>
+			<val>De volgende velden zijn verplicht om en prijscontrole uit te voeren: - {0}
+- {1}
+- {2}
+- {3}
+- {4}
+- {5}
+Controleer of ze correct zijn ingevuld.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please enter below the ERP Document ID you want to associate for the file being processed</key>
+			<val>Om dit document te koppelen aan een handmatig bijgewerkte order, voert u de ID van het ERP-document in.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please enter below the ERP Document IDs you want to associate for the file being processed</key>
+			<val>Voer de ID’s in van SAP-documenten waaraan u deze order wilt koppelen.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please enter below the SAP Document ID you want to associate for the file being processed</key>
+			<val>Voer de ID in van het SAP-document waaraan u het huidige bestand wilt koppelen.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please fill a valid customer for ship to</key>
+			<val>Voer geldige klantgegevens in om te zoeken naar beschikbare verzendadressen.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please specify a customer number.</key>
+			<val>Geef een klantnummer op.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please specify a sales area.</key>
+			<val>Geef een verkoopgebied op.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please specify a sales office.</key>
+			<val>Geef een verkoopkantoor op.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please specify an Item</key>
+			<val>U moet een ERP-artikelnummer opgeven om de overeenkomstige SAP-tekst op te halen.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PO Box</key>
+			<val>Postbus</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PO date</key>
+			<val>PO-datum</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PO number</key>
+			<val>PO-nummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PO number and Customer number needed to search for order</key>
+			<val>Geef het klantnummer en het PO-nummer op.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval content1</key>
+			<val>Er kunnen duplicaten van orders zijn in SAP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval content2</key>
+			<val>Controleer of de order al is aangemaakt in SAP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval content3</key>
+			<val>Als de order niet met succes is aangemaakt in SAP, gebruik dan de knop ‘Alleen archiveren’ om deze order te koppelen aan de overeenkomstige ID’s van SAP-documenten.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval content4</key>
+			<val>Anders boekt u de order opnieuw.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval subtitle</key>
+			<val>Er is een fout opgetreden bij het boeken van deze order naar SAP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval title</key>
+			<val>Mogelijk duplicaten van orders in SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Portal</key>
+			<val>Portal</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Portal Information</key>
+			<val>Portalinformatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Post</key>
+			<val>Goedkeuren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Post and wait for SAP document number</key>
+			<val>Wachten op resultaten boeking</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Postal Code</key>
+			<val>Postcode</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Pre Agreed Form</key>
+			<val>Vooraf afgesproken order openen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price check</key>
+			<val>Prijzen controleren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price check - Oracle Web Service Error</key>
+			<val>Prijscontrole mislukt</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price check warning({0}): {1}</key>
+			<val>{1} (Oracle EBS-foutcode: {0})</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price check warning: expected Total = '{0} ({1})'. Unit Price = '{2} ({3})'.</key>
+			<val>De eenheidsprijs voor dit item in de ERP is {3} {2}. Het verwachte regeltotaal is {1} {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price discrepancies</key>
+			<val>Prijs komt niet overeen met ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price list</key>
+			<val>Prijslijst</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PriceList</key>
+			<val>Prijslijst</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PriceList_Id</key>
+			<val>Prijslijst-ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Pricing condition data</key>
+			<val>Details prijsvoorwaarde</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Pricing conditions</key>
+			<val>Prijsvoorwaarden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Pricing issue</key>
+			<val>Uitgifte prijzen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Priority</key>
+			<val>Prioriteit</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Process Name</key>
+			<val>Procesnaam</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Product list</key>
+			<val>Items</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Product question</key>
+			<val>Vraag product</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Property not defined in database</key>
+			<val>Deze informatie is niet gevonden in de hoofdgegevenstabel</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Property not defined in EDI file</key>
+			<val>Deze informatie is niet gevonden in de order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quantity</key>
+			<val>Hoeveelheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quantity does not match the remaining quantity from quote: {0}</key>
+			<val>De hoeveelheid komt niet overeen met de openstaande hoeveelheid van het offerte-item: {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quantity UoM</key>
+			<val>Extr. hoev/maateenheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quantity UoM visible</key>
+			<val>Hoeveelheid ophalen van combinatie hoeveelheid/maateenheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Item Number Column</key>
+			<val>Offerte item (regelitems)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Item Title</key>
+			<val>Offerte item (regelitems)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Number</key>
+			<val>Offertenummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Number Column</key>
+			<val>Nummer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Total</key>
+			<val>Bedrag offerte</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Validity Column</key>
+			<val>Geldig tot</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotations Title</key>
+			<val>Offerte selecteren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote request</key>
+			<val>Offerteaanvraag</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote Valid From Column</key>
+			<val>Geldig vanaf</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote_End_Date</key>
+			<val>Geldig tot</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote_Start_Date</key>
+			<val>Geldig van</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>QuoteAvailableQuantity</key>
+			<val>Offerte resterende hoeveelheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Rate</key>
+			<val>Percentage</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Reception datetime</key>
+			<val>Ontvangen op</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Region</key>
+			<val>Regio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>RejectComment</key>
+			<val>Opmerking weigering</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>RejectReason</key>
+			<val>Reden weigering</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Reload line items from the order</key>
+			<val>Orderitems herstellen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Remaining net Column</key>
+			<val>Resterend bedrag</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Remaining quantity Column</key>
+			<val>Resterende hoeveelheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Request teaching</key>
+			<val>Leren aanvragen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Request teaching pending</key>
+			<val>Even geduld terwijl uw leerverzoek wordt ingediend…</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Request teaching...</key>
+			<val>Leren aanvragen...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ResultsList</key>
+			<val>Resultatenlijst</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Revised order</key>
+			<val>Gewijzigde order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Revised order_report</key>
+			<val>Gewijzigde order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Rule length exceeded : 20 characters maximum</key>
+			<val>Het maximaal aantal tekens is 20.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Running total</key>
+			<val>Berekend totaal</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Area</key>
+			<val>Verkoopgebied</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales group</key>
+			<val>Verkoopgroep</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Information</key>
+			<val>Verkoopinformatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales office</key>
+			<val>Verkoopkantoor</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Order {0} (customer: {1}, amount: {2}, date:{3})</key>
+			<val>Order {0} (klant: {1}, bedrag: {2}, datum: {3})</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Order Details</key>
+			<val>Details order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales order priority</key>
+			<val>Prioriteit order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales organization</key>
+			<val>Verkooporganisatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Person</key>
+			<val>Verkoper</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SalesDocumentType__</key>
+			<val>Type verkoopsdocument</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SalesForce</key>
+			<val>Salesforce</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SalesRep_Id</key>
+			<val>Verkoper-ID</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SalesRepID</key>
+			<val>Toewijzingsgroep verkoop</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP Error</key>
+			<val>SAP-fout</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP ID</key>
+			<val>ID SAP-document</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP Information</key>
+			<val>SAP-informatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sap Line Item Split Document Id</key>
+			<val>ID ERP-document</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP returned an incorrect simulation report.</key>
+			<val>SAP heeft een verkeerd simulatierapport opgehaald.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP Simulation</key>
+			<val>SAP-simulatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP simulation timeout.</key>
+			<val>De SAP-simulatie is niet voltooid binnen de periode voor time-out.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP texts</key>
+			<val>SAP-teksten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP timeout</key>
+			<val>De SAP-verbinding kon niet tot stand worden gebracht binnen de periode voor time-out.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP view {0} is not available</key>
+			<val>De volgende weergave ontbreekt in SAP: {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP_Simulation_Error__</key>
+			<val>Fout in SAP-simulatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP_Simulation_Warning__</key>
+			<val>SAP-simulatie waarschuwing </val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Search</key>
+			<val>Zoeken</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Search key</key>
+			<val>Zoekwoord</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Selected partner</key>
+			<val>Selecteren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Send an email</key>
+			<val>E-mail versturen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Send confirmation notification</key>
+			<val>Melding orderverwerking verzenden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship Method</key>
+			<val>Verzendmethode</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship method is not available for selected warehouse</key>
+			<val>Deze verzendmethode is niet beschikbaar voor het geselecteerde magazijn.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to</key>
+			<val>Naam</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Address</key>
+			<val>Verzendadres</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Captured Address</key>
+			<val>Dropshipping</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Captured Address Action</key>
+			<val>Dropshipping</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to City</key>
+			<val>Stad ontvanger</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Country</key>
+			<val>Land ontvanger</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to name</key>
+			<val>Naam ontvanger</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to name 2</key>
+			<val>Aanvullende naam ontvanger</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Number</key>
+			<val>Nummer ontvanger</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to number '{0}' not found</key>
+			<val>Nummer ontvanger '{0}' niet gevonden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Postal Code</key>
+			<val>Postcode ontvanger</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Region</key>
+			<val>Regio ontvanger</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Street</key>
+			<val>Straat ontvanger</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Shipping Address</key>
+			<val>Verzendadres</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Shipping condition</key>
+			<val>Voorwaarde verzending</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Shipping date</key>
+			<val>Verzenddatum</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShipToAddress</key>
+			<val>Verzendadres</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShipToAddressHelpText</key>
+			<val>U kunt de herkenning van het verzendadres verbeteren door het verzendadres handmatig te registreren op de order.&lt;br&gt;
+Klik in dit veld en selecteer het blok met het verzendadres in de voorbeeldweergave van het document door de linkermuisknop ingedrukt te houden.&lt;br&gt;
+Deze adrespositie wordt gebruikt om het verzendadres automatisch te detecteren op toekomstige orders met een soortgelijke indeling.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShipToAddressPlaceHolder</key>
+			<val>Klik hier en selecteer de zone met het verzendadres op de order...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>shiptoediaddress__</key>
+			<val>EDI-order - Verzendadres</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShiptoVendor</key>
+			<val>Extern nr. ontvanger</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShiptoVendor_report</key>
+			<val>Extern nr. ontvanger</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Show extracted description column</key>
+			<val>Kolom 'Onttrokken beschrijving' weergeven</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Show SAP texts</key>
+			<val>SAP-teksten tonen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Simulate</key>
+			<val>Simuleren</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Simulation Report</key>
+			<val>Simulatierapport</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Skip price check</key>
+			<val>Prijscontrole overslaan</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SLAMet</key>
+			<val>Doeltijd SLA gehaald</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Automatic processing__</key>
+			<val>OM - Automatische verwerking</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Complete Delivery Mapping__</key>
+			<val>OM - Trefwoorden in kaart brengen levering voltooid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Configuration__</key>
+			<val>Configuratie Orderbeheer</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Currencies__</key>
+			<val>OM - Valuta's</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Customer material mapping autolearn__</key>
+			<val>OM - Gecorrigeerde koppeling van artikelen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Customers__</key>
+			<val>OM - Klanten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Duplicate alert__</key>
+			<val>OM - Waarschuwing duplicaat</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - ERP/Customer material mapping__</key>
+			<val>OM - Artikelen koppelen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - External partner identifier mapping__</key>
+			<val>OM - Extern partnernummer/intern partnernummer in kaart brengen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Global filters__</key>
+			<val>OM - Algemene filters</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Global settings__</key>
+			<val>OM - Algemene configuratie-instellingen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - LineTypes__</key>
+			<val>OM - Lijntypes</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Materials__</key>
+			<val>OM - Artikelen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - OrderTypes__</key>
+			<val>OM - Ordertypes</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Organizations__</key>
+			<val>OM - Werkeenheden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Partners__</key>
+			<val>OM - Partners</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - PriceLists__</key>
+			<val>OM - Prijslijsten</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - SalesPerson__</key>
+			<val>OM - Verkopers</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Ship to address/number mapping__</key>
+			<val>OM - Verzendadressen/verzendnummers in kaart brengen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - ShipMethod__</key>
+			<val>OM - Verzendmethodes</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Sold to address/number mapping__</key>
+			<val>OM - Adressen verkocht aan/klantnummers in kaart brengen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - TaxCodes__</key>
+			<val>OM - Belastingcodes</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Units of measure/Material mapping__</key>
+			<val>OM - Maateenheden/Artikelen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Units of measure__</key>
+			<val>OM - Maateenheden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - UOM Conversion__</key>
+			<val>OM - Conversie maateenheden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Warehouses__</key>
+			<val>OM - Magazijnen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SoldToAddress</key>
+			<val>Adres klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SoldToAddressHelpText</key>
+			<val>U kunt de herkenning van het klantadres verbeteren door het klantadres handmatig te registreren op de order.&lt;br&gt;
+Klik in dit veld en selecteer het blok met het klantadres in de voorbeeldweergave van het document door de linkermuisknop ingedrukt te houden.&lt;br&gt;
+Deze adrespositie wordt gebruikt om het klantadres automatisch te detecteren op toekomstige orders met een soortgelijke indeling.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SoldToAddressPlaceHolder</key>
+			<val>Klik hier en selecteer de zone met het klantadres op de order...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>soldtoediaddress__</key>
+			<val>EDI-order - Factuuradres</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Some prices are not correct.</key>
+			<val>Een of meer prijzen komen niet overeen met de prijzen in de ERP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Source</key>
+			<val>Ontvangen via</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SourceSubject</key>
+			<val>Onderwerp e-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Split Order</key>
+			<val>Splitsen na het groeperen van regelitems</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Standard</key>
+			<val>Standaard</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Standard Order (TA)</key>
+			<val>Standaardorder (TA)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Standard teaching tab</key>
+			<val>Standaard</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>standardLayoutDescription</key>
+			<val>U gaat een verzoek indienen bij de gebruiker die verantwoordelijk is voor leren om de herkenning van orders uitgegeven door klantnr. {0} te verbeteren.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Stock issue</key>
+			<val>Probleem met voorraad</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Storage location</key>
+			<val>Opslaglocatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Storage Location</key>
+			<val>Opslaglocatie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Street</key>
+			<val>Straat</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Subject</key>
+			<val>Onderwerp</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Submit as new separate order</key>
+			<val>Nieuwe order aanmaken</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Success</key>
+			<val>Voltooid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Table</key>
+			<val>Tabel</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Target quantity Column</key>
+			<val>Beoogde hoeveelheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Tax Code</key>
+			<val>Belastingcode</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Teach customer address</key>
+			<val>Klantadres helpen zoeken</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Teach shipping address</key>
+			<val>Verzendadres helpen zoeken</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The customer number is required</key>
+			<val>Het klantnummer is verplicht</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The customer number is required for teaching</key>
+			<val>Geef het klantnummer op voordat u uw verzoek om leren indient.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The document you tried to retrieve is not a quotation</key>
+			<val>Deze waarde komt niet overeen met de offerte.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The ERP Document ID is requiered to archive only</key>
+			<val>U moet de ID van het SAP-document invoeren om deze order te archiveren.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The expected total price of this item in the ERP is {0} {1}.</key>
+			<val>Het verwachte regeltotaal is {1} {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The expected unit price of this item in the ERP is {0} {1}.</key>
+			<val>De eenheidsprijs voor dit item in de ERP is {1} {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The material is required</key>
+			<val>Het artikel is verplicht</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The quotation is linked to customer {0}</key>
+			<val>Deze offerte is gekoppeld aan klant {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The quote is completed</key>
+			<val>De offerte is voltooid.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The running total and total do not match</key>
+			<val>Het opgehaalde totaal komt niet overeen met het berekende totaal.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The sales order date is required</key>
+			<val>Geef de PO-datum op.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The SAP Document ID is requiered to archive only</key>
+			<val>U moet de ID van het SAP-document invoeren om dit bestand te archiveren.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The teaching request has been successfully submitted</key>
+			<val>Uw verzoek om leren is met succes ingediend.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The teaching request has failed</key>
+			<val>Er is een fout opgetreden bij het verzenden van uw verzoek om leren. Neem contact op met uw beheerder.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The total does not match the total outstanding amount of the quotation</key>
+			<val>Het totaal komt niet overeen met het totale saldo van de offerte.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The total must equal the sum of the line item totals ({0})</key>
+			<val>Het totaalbedrag moet gelijk zijn aan de som van de totalen van de regelitems ({0})</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The validity date of the quote is exceeded</key>
+			<val>De vervaldatum van de offerte is verstreken.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The value does not exist</key>
+			<val>Deze waarde bestaat niet</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The value must be greater than 0</key>
+			<val>De waarde moet groter zijn dan 0</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There are several addresses associated to this customer. Please choose one among the following:</key>
+			<val>Er zijn meerdere adressen gekoppeld aan deze klant. Kies een van de volgende:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There are several customers associated to this partner. Please choose one among the following:</key>
+			<val>Er zijn meerdere klanten gekoppeld aan deze partner. Kies een van de volgende:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is a risk of duplicates for the following document(s):</key>
+			<val>Er kunnen duplicaten zijn voor de volgende documenten:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is more than one partner for this ShipTo number</key>
+			<val>Er zijn meerdere klanten gekoppeld aan deze partner.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is more than one partner related to this delivery address</key>
+			<val>Er zijn meerdere partners met dit verzendadres.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is no existing mapping between the shipping address and the ship-to number</key>
+			<val>Er is geen afstemming tussen het verzendadres en het nummer van de ontvanger.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is no line item associated with the quote number you specified</key>
+			<val>De order bevat geen van de items die in de opgegeven offerte staan.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is no SAP order matching this number: {0}</key>
+			<val>De ID '{0}' komt niet overeen met een order in SAP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This document is associated with ERP Document ID</key>
+			<val>Dit bestand is gekoppeld aan document-ID van ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This document is associated with SAP Document ID</key>
+			<val>Gekoppelde ID SAP-document</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This document is associated with SAP Document IDs</key>
+			<val>Gekoppelde ID’s SAP-document</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This field corresponds to the delivery date specified on the customer order</key>
+			<val>Dit is de leveringsdatum opgegeven op de klantorder. Laat dit veld leeg als de leveringsdatum niet op het document staat.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This field is required and its value must be greater than 0</key>
+			<val>Dit veld is verplicht en de waarde ervan moet groter zijn dan 0</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This material ID has been changed automatically based on previous similar orders</key>
+			<val>Dit artikelnummer is automatisch gecorrigeerd op basis van vorige soortgelijke orders.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This order contains a new message from your customer</key>
+			<val>U hebt een nieuw bericht.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This order is coming from portal so please check this date</key>
+			<val>De klant ontvangt bevestiging van deze datum na goedkeuring van de order.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This ShipTo address is not related to the SoldTo.</key>
+			<val>Dit verzendadres is niet gekoppeld aan het klantadres</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>To</key>
+			<val>Aan</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Total</key>
+			<val>Totaal</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Total does not match the total of the remaining articles from quote: {0}</key>
+			<val>Het bedrag komt niet overeen met het resterende bedrag van het offerte-item: {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Total does not match unit price and quantity values</key>
+			<val>De waarden voor Hoeveelheid, Eenheidsprijs en Totaal komen niet overeen.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Touchless error revised order</key>
+			<val>Gewijzigde order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Touchless error revised order_report</key>
+			<val>Wijziging order gedetecteerd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Tracking Url</key>
+			<val>Externe URL tracering</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Type</key>
+			<val>Type</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>TypeChangeOrder</key>
+			<val>Gewijzigde order</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>TypeOrder</key>
+			<val>Bestellen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>TypeQuoteRequest</key>
+			<val>Offerteaanvraag</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>TypeReturnOrder</key>
+			<val>Retourbestelling</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unable to make the Web Service call.</key>
+			<val>Kan geen verbinding tot stand brengen met de Oracle EBS Webservice.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unable to manage the price_request call response.</key>
+			<val>Kan geen verbinding tot stand brengen met de Oracle EBS Webservice.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unauthorized characters : the authorized special characters are : space, underscore, parenthesis and dash</key>
+			<val>Alleen de volgende speciale tekens zijn toegestaan: _ () - en spaties.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unchanged</key>
+			<val>Geen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit</key>
+			<val>Maateenheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit '{0}' does not match the material '{1}'</key>
+			<val>Eenheid '{0}' komt niet overeen met het artikel '{1}'</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit price</key>
+			<val>Eenheidsprijs</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit Price UoM</key>
+			<val>Extr. eenheidsprijs/maateenheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit Price UoM visible</key>
+			<val>Eenheidsprijs registreren van een combinatie eenheidsprijs/maateenheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit_report</key>
+			<val>Maateenheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unknown customer</key>
+			<val>Onbekende klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unknown material</key>
+			<val>Onbekend artikel</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unreadable order</key>
+			<val>Onleesbaar verkoopsdocument</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unusual quantity</key>
+			<val>Ongebruikelijke hoeveelheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>UoM Column</key>
+			<val>Maateenheid</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Updated</key>
+			<val>Wijziging</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Urgent</key>
+			<val>Dringend</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Value changed from '{0}' to '{1}'</key>
+			<val>Waarde gewijzigd van ‘{0}’ naar ‘{1}’</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Value from database ({0}) differs from the one in order ({1})</key>
+			<val>De waarde in de hoofdgegevenstabel ({0}) verschilt van de orderwaarde ({1})</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Waiting for customer answer</key>
+			<val>In afwachting van antwoord van klant</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouse</key>
+			<val>Magazijn</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouse Code</key>
+			<val>Magazijncode</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouse code doesn't exist in the current organization</key>
+			<val>Magazijncode niet gevonden voor de geselecteerde werkeenheid.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouse Name</key>
+			<val>Naam</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouses</key>
+			<val>Magazijnen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warning details title</key>
+			<val>Details waarschuwing</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warning message title</key>
+			<val>Waarschuwingsbericht</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You are about to send a teaching request for customer number: {0}</key>
+			<val>U gaat een verzoek indienen bij de gebruiker die verantwoordelijk is voor leren om de herkenning van orders uitgegeven door klantnr. {0} te verbeteren.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You are about to send an email</key>
+			<val>U gaat het document e-mailen samen met de bijlagen. Gebruik puntkomma’s om meerdere e-mailadressen te scheiden.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You have a partner with a function but without an ID</key>
+			<val>Voer het partnernummer in dat overeenkomt met de opgegeven functie partner.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You must choose an item before browsing its warehouse</key>
+			<val>Kies eerst een item.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You must choose an order type first</key>
+			<val>Kies eerst een ordertype.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You must have a least one document to dispatch.</key>
+			<val>Er moeten minstens twee documenten zijn om deze actie uit te voeren.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Your order for {0} has been confirmed</key>
+			<val>Uw order voor {0} is bevestigd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Your order for {0} has been rejected</key>
+			<val>Uw order voor {0} is geannuleerd</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Your SAP Document ID is : {0}</key>
+			<val>Uw document is met succes geboekt in SAP. Uw ID SAP-document{0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Your SAP Document IDs are : {0}</key>
+			<val>Uw documenten zijn met succes geboekt in SAP. Uw ID’s SAP-documenten zijn {0}.</val>
+		</TranslateItem>
+	</items>
+</TranslateCollection>

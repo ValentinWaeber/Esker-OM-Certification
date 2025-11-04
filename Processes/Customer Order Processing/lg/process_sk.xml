@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslateCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" frozen="false">
+	<items>
+		<TranslateItem>
+			<key>_Add original email content</key>
+			<val>Zahrnúť pôvodný e-mail do konverzácie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Ask for mapping dialog title</key>
+			<val>Extrahovať údaje z dokumentu</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_AskForMappingPopupDataNotFound</key>
+			<val>Položky pozície mohli byť nesprávne rozpoznané. Skontrolujte náhľad.
+Chcete definovať mapovanie?
+Ak je náhľad nesprávny, kliknite na 'Nie'.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_AskForMappingPopupDescription</key>
+			<val>Medzi stĺpcami tohto súboru CSV a poľami formulára nebolo definované žiadne mapovanie. Chcete definovať mapovanie?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_AskForMappingPreviewTitle</key>
+			<val>Náhľad položky pozície</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ChatGPT answer</key>
+			<val>Odpoveď vygenerovaná pomocou ChatGPT</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Confirm mapping is unwanted</key>
+			<val>Nie, už sa nepýtať</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Confirm mapping is wanted</key>
+			<val>Áno</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Control mapped multiple times</key>
+			<val>Táto hodnota je už priradená.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation cc</key>
+			<val>Kópia</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation email</key>
+			<val>Emailová adresa</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation email bad format</key>
+			<val>Zadať platnú e-mailovú adresu.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation email linked to another customer</key>
+			<val>je registrovaný(-á) ako kontakt iného zákazníka.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation message</key>
+			<val>Správa</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation name</key>
+			<val>Meno kontaktu</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation template</key>
+			<val>Šablóna</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation to</key>
+			<val>Pre</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation unable to send message</key>
+			<val>Správa sa nedá odoslať</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation will create new customer</key>
+			<val>nie je registrovaný(-á) ako kontakt tohto zákazníka.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation will create one or more new customers</key>
+			<val>nie sú registrovaní ako kontakty tohto zákazníka.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Customer</key>
+			<val>Kontakty na zákazníka</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Do not show this warning again</key>
+			<val>Túto správu už nezobrazovať</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Edit spreadsheet mapping</key>
+			<val>Otvoriť náhľad mapovania</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_External</key>
+			<val>Ďalšie kontakty</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ExtractFromSpreadsheet</key>
+			<val>Extrahovať z dokumentu</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_GenerateReplySuggestion</key>
+			<val>Navrhnúť odpoveď e-mailom</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Header field group</key>
+			<val>Polia hlavičky</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Import from clipboard</key>
+			<val>Načítať zo schránky</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Line item group</key>
+			<val>Stĺpce položiek pozície</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard append lines</key>
+			<val>Pridať do formulára</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard dialog help link</key>
+			<val>Otvoriť online dokumentáciu</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard Edit mapping</key>
+			<val>Upraviť mapovanie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard mapping incomplete</key>
+			<val>Upraviť mapovanie</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard mapping undefined or invalid</key>
+			<val>Mapovanie stĺpcov je neplatné alebo nie je definované pre tohto zákazníka.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard no mapping</key>
+			<val>-- Žiadne mapovanie --</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard No mapping found for columns '{0}'</key>
+			<val>Pre stĺpce '{0}' nebolo nájdené žiadne mapovanie.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard paste dialog title</key>
+			<val>Načítať údaje zo schránky</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard preview dialog title</key>
+			<val>Náhľad mapovania</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard Show preview</key>
+			<val>Načítať údaje</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_LookForAnswerToTheQuestionSuggestion</key>
+			<val>Aká je odpoveď na otázku zákazníka?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Map columns to form fields</key>
+			<val>Spojte stĺpce súboru s príslušnými poľami formulára pomocou roletových zoznamov.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Map columns to form fields headers</key>
+			<val>Polia hlavičky</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Map columns to form fields line items</key>
+			<val>Stĺpce položiek pozície</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactCheckBox</key>
+			<val>Kontakt na zákazníka</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDialogDescription</key>
+			<val>Vyberte e-mailové adresy, ktoré chcete pridať ako kontakty zákazníka s prístupom do zákazníckeho portálu.
+Vybrané aj nevybrané kontakty sa pridajú do zoznamu príjemcov a použijú sa na automatické dopĺňanie návrhov.
+Ak chcete vylúčiť e-mailové domény z vytvárania kontaktov zákazníkov, kontaktujte svojho správcu.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDialogTitle</key>
+			<val>Pridať kontakt zákazníka</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDisplayName</key>
+			<val>Názov</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactEmailAddress</key>
+			<val>Emailová adresa</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_No fields were mapped for this document</key>
+			<val>Pre tento dokument neboli mapované žiadne polia.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Paste your data here</key>
+			<val>Vložte sem svoje údaje...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select a customer before starting a conversation</key>
+			<val>Zadajte číslo alebo meno zákazníka, ktorému chcete odoslať správu.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select a customer before starting a conversation popup title</key>
+			<val>Nová správa</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SelectOrEnterAtLeastOneEmailAddress</key>
+			<val>Vybrať alebo zadať e-mailovú adresu...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Send message</key>
+			<val>Nová konverzácia</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SendEmail</key>
+			<val>Odoslať túto odpoveď zákazníkovi</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Signature template</key>
+			<val>Podpis</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_User</key>
+			<val>Interné kontakty</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemoved</key>
+			<val>Príjemca bol odstránený. Bude vytvorená nová konverzácia.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemovedDialogMessage</key>
+			<val>Odstránenie príjemcu vytvorí novú konverzáciu.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemovedDialogTitle</key>
+			<val>Nová konverzácia</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Display publish on portal warning for conversation</key>
+			<val>Chystáte sa začať konverzáciu s {0}, ktorá automaticky uverejní dokument na ich zákazníckom portáli. 
+Chcete pokračovať?</val>
+		</TranslateItem>
+	</items>
+</TranslateCollection>

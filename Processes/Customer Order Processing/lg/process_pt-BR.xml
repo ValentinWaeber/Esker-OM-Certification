@@ -1,0 +1,3215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslateCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" frozen="false">
+	<items>
+		<TranslateItem>
+			<key>__Plant</key>
+			<val>Fábrica</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_A valid contract is mandatory</key>
+			<val>Nenhum contrato válido encontrado para este cliente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Account_number</key>
+			<val>Número da conta</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_AcknowledgeSimulationWarnings</key>
+			<val>Reconhecer avisos de simulação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Actions_pane</key>
+			<val>Ações</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Add original email content</key>
+			<val>Mostrar o e-mail original na conversa</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Advanced Shipping Notices</key>
+			<val>Avisos de remessa antecipada</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Alert on duplicates changed {0}</key>
+			<val>Essas opções foram alteradas. Para este pedido, o limite de alerta de duplicata foi inicialmente definido como '{0}'.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Alert on duplicates changed {0}_Touchless changed {1}</key>
+			<val>Essas opções foram alteradas. Para este pedido, o limite de alerta de duplicata foi inicialmente definido como '{0}' e o processamento automático foi '{1}'.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_An error occurred while loading contract</key>
+			<val>Ocorreu um erro ao carregar o contrato. Por favor, tente novamente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_An error occurred while loading quote</key>
+			<val>Ocorreu um erro ao carregar o orçamento. Por favor, tente novamente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ArchiveOnlyChangeOrderCancellationText</key>
+			<val>Este documento confirma, altera ou cancela um pedido existente. Atualize o pedido correspondente manualmente no seu ERP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Ask for mapping dialog title</key>
+			<val>Extrair dados do documento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_AskForMappingPopupDataNotFound</key>
+			<val>Itens de linha podem ter sido detectados incorretamente. Por favor, verifique a visualização. Você quer definir um mapeamento? Se a visualização estiver incorreta, clique em "Não".</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_AskForMappingPopupDescription</key>
+			<val>Nenhum mapeamento foi definido entre as colunas deste arquivo CSV e os campos do formulário. Você quer definir um mapeamento?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_AskForMappingPreviewTitle</key>
+			<val>Visualização de item de linha</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Automatic Processing</key>
+			<val>Configurações de processamento automático</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse date from</key>
+			<val>Pesquisar de</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse date to</key>
+			<val>Até</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse PO Date</key>
+			<val>Data do pedido de compra</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse PO Number</key>
+			<val>Número do pedido de compra</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse SAP Document Id</key>
+			<val>Número SAP do pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Cancel Order in SAP</key>
+			<val>Rejeitar todos os itens no SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_brand</key>
+			<val>Provedor de cartão</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_expiration</key>
+			<val>Data de validade</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_holder</key>
+			<val>Titular do cartão</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_number</key>
+			<val>Número de cartão</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_type</key>
+			<val>Tipo de cartão</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Change Order</key>
+			<val> Pedido de alteração</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Change Orders</key>
+			<val>Histórico de pedidos de alteração</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ChatGPT answer</key>
+			<val>Resposta gerada com ChatGPT</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Comment</key>
+			<val>Comentário</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Computed quantity</key>
+			<val>Esta quantidade foi convertida automaticamente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ComputingParametersWaiting</key>
+			<val>Carregando opções de processamento...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Confirm mapping is unwanted</key>
+			<val>Não, não perguntar novamente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Confirm mapping is wanted</key>
+			<val>Sim</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Confirmed quantity is {0} for schedule line date {1} in item {2}</key>
+			<val>A quantidade confirmada é {0} para a data programada {1} e item de linha {2}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract cannot be referenced due to its completed status</key>
+			<val>Este valor corresponde a um contrato concluído.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract no longer valid</key>
+			<val>Este contrato expirou.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract not found</key>
+			<val>Nenhum contrato encontrado para este número de contrato.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract not yet valid</key>
+			<val>O período de validade do contrato não começou.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract partner not matching current sold-to</key>
+			<val>O emissor da ordem do contrato não corresponde ao cliente especificado.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract sales area not matching current sales area</key>
+			<val>A área de vendas do contrato não corresponde à área de vendas especificada.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Contract type not supported</key>
+			<val>Este tipo de contrato não é suportado.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Control mapped multiple times</key>
+			<val>Este valor já está mapeado.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation cc</key>
+			<val>Cópia</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation email</key>
+			<val>Endereço de e-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation email bad format</key>
+			<val>Digite um endereço de e-mail válido.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation email linked to another customer</key>
+			<val>está registrado como contato de outro cliente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation message</key>
+			<val>Mensagem</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation name</key>
+			<val>Nome do contato</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation template</key>
+			<val>Modelo</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation to</key>
+			<val>Para</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation unable to send message</key>
+			<val>Impossível enviar a mensagem</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation will create new customer</key>
+			<val>não está registrado como contato deste cliente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation will create one or more new customers</key>
+			<val>não estão registrados como contatos deste cliente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Csv_Non_Extracted_data_loss</key>
+			<val>Carregar um novo pedido substituirá todos os dados digitados manualmente. Você quer continuar?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Csv_Non_Extracted_data_loss_title</key>
+			<val>Substituir os dados atuais</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Customer</key>
+			<val>Contatos do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Customer material Id {0} is not defined for sales area {1} and customer number {2}.</key>
+			<val>O ID do material do cliente {0} não está definido para a área de vendas {1} e o número do cliente {2}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_CustomerUnit</key>
+			<val>Clie. UdM</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_CustomerUnit_report</key>
+			<val>Unidade de medida do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_CustomerUnitBrowseTitle</key>
+			<val>Unidade de medida do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DeleteAllLinesButton</key>
+			<val>Excluir todas as linhas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DeleteAllLinesMessage</key>
+			<val>Você tem certeza que deseja excluir todas as linhas?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DeleteAllLinesTitle</key>
+			<val>Confirmar a exclusão</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Denominator</key>
+			<val>Denominador</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_disabled</key>
+			<val>desabilitado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Do not show this warning again</key>
+			<val>Não mostrar essa mensagem novamente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Document {0} has been created but error occurred during update, the document is incomplete.</key>
+			<val>O documento {0} foi criado, mas ocorreu um erro durante a atualização, o documento está incompleto.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Down payment percentage</key>
+			<val>Pagamento inicial (%)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DropShipToAddress_Language</key>
+			<val>Código de idioma da comunicação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DropShipToAddress_Language_report</key>
+			<val>Código de idioma da comunicação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_DropShipToAddress_TransportationZone</key>
+			<val>Zona de transporte</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Duplicates</key>
+			<val>Duplicatas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Edit spreadsheet mapping</key>
+			<val>Visualização de mapeamento aberto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_enabled</key>
+			<val>habilitado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ErrorDuplicateFieldsUnrecognized</key>
+			<val>Um ou mais campos configurados para verificação de duplicatas não existem neste formulário. Por favor, contate o seu administrador.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ERRORS</key>
+			<val>Erros</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_External</key>
+			<val>Outros contatos</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Autolearning</key>
+			<val>Aprendizado automático</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Autolearning_report</key>
+			<val>Dados extraídos por aprendizado automático</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Gpt</key>
+			<val>Synergy-GPT</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Gpt_report</key>
+			<val>Dados extraídos com Synergy-GPT</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Teaching</key>
+			<val>Ensino</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extracted_Using_Teaching_report</key>
+			<val>Dados extraídos com ensino</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ExtractedQuantity</key>
+			<val>Quantidade extraída</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ExtractFromSpreadsheet</key>
+			<val>Extrair do documento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Extraction_Informations</key>
+			<val>Método de extração de dados</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_First Name</key>
+			<val>Nome</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_GenerateReplySuggestion</key>
+			<val>Sugerir um e-mail de resposta</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Generic ERP submission returned one or more error reported in the ERP Information panel</key>
+			<val>Ocorreu um ou mais erros ao publicar o pedido no ERP. Por favor, consulte o painel "Informações do ERP" para obter mais detalhes.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Header field group</key>
+			<val>Campos de cabeçalho</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Header pricing conditions are not simulated, calculated total could be different.</key>
+			<val>As condições de preços do cabeçalho não são simuladas, o total calculado pode ser diferente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Hide Parameters</key>
+			<val>Ocultar opções de processamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Import from clipboard</key>
+			<val>Carregar a partir da área de transferência</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_INFOS</key>
+			<val>Informação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Last Name</key>
+			<val>Sobrenome</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Line item group</key>
+			<val>Colunas de item de linha</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard append lines</key>
+			<val>Adicionar ao formulário</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard dialog help link</key>
+			<val>Abrir a documentação online</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard Edit mapping</key>
+			<val>Editar mapeamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard mapping incomplete</key>
+			<val>Editar mapeamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard mapping undefined or invalid</key>
+			<val>O mapeamento da coluna é inválido ou não está definido para esse cliente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard no mapping</key>
+			<val>- Sem mapeamento -</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard No mapping found for columns '{0}'</key>
+			<val>Nenhum mapeamento foi encontrado para as colunas '{0}'.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard paste dialog title</key>
+			<val>Carregar dados partir da área de transferência</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard preview dialog title</key>
+			<val>Visualização de mapeamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load clipboard Show preview</key>
+			<val>Carregar dados</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Load SAP order</key>
+			<val>Carregar valores de pedidos SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_LookForAnswerToTheQuestionSuggestion</key>
+			<val>Qual é a resposta à pergunta do cliente?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Map columns to form fields</key>
+			<val>Associe as colunas do arquivo aos campos de formulário correspondentes usando as listas suspensas.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Map columns to form fields headers</key>
+			<val>Campos de cabeçalho</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Map columns to form fields line items</key>
+			<val>Colunas de item de linha</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Material</key>
+			<val>Material</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Material found from the description. Make sure that it is correct</key>
+			<val>Este material foi inferido a partir da descrição extraída. Certifique-se de que está correto.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Missing Field '{0}' in header</key>
+			<val>Campo '{0}' ausente no cabeçalho.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Missing Field '{0}' line {1}</key>
+			<val>Campo '{0}' ausente na linha '{1}'.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Multiple customers</key>
+			<val>Vários clientes foram identificados nesse pedido. Revise e atualize o cliente, se necessário.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Multiple customers and multiple shipping addresses</key>
+			<val>Vários endereços de entrega e clientes foram identificados no pedido. Revise e atualize-os, se necessário.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Multiple shipping addresses</key>
+			<val>Vários endereços de remessa foram identificados nesse pedido. Revise e atualize o endereço, se necessário.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Multiple valid contracts available</key>
+			<val>Vários contratos encontrados para este cliente. Por favor, escolha um.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactCheckBox</key>
+			<val>Contato do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDialogDescription</key>
+			<val>Selecione os endereços de e-mail que deseja adicionar como contatos do cliente com acesso ao portal do cliente.
+Os contatos são adicionados à sua lista de destinatários e usados para sugestões de preenchimento automático.
+Para excluir domínios de e-mail da criação de contatos de clientes, entre em contato com seu administrador.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDialogTitle</key>
+			<val>Adicionar contato de cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDisplayName</key>
+			<val>Nome</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactEmailAddress</key>
+			<val>Endereço de e-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_No fields were mapped for this document</key>
+			<val>Nenhum campo foi mapeado para este documento.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_No mapping exist</key>
+			<val>Nenhum fator de conversão encontrado para esta combinação de unidades.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Numerator</key>
+			<val>Numerador</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Oracle submission returned one or more error reported in the ERP Information panel</key>
+			<val>Ocorreu um ou mais erros ao publicar o pedido no Oracle. Por favor, consulte o painel "Informações do ERP" para obter mais detalhes.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Order Confirmations</key>
+			<val>Confirmações de pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Order ERP acknowledgement was not received in the default delay of {0} minutes, please contact your administrator</key>
+			<val>O limite de tempo de integração do ERP para este pedido ({0} minutos) foi excedido. Por favor, contate o seu administrador.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Paid amount</key>
+			<val>Valor pago</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Partner Email</key>
+			<val>E-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Partner Functions</key>
+			<val>Parceiros adicionais</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Partner Functions Code</key>
+			<val>Código</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Partner Functions Description</key>
+			<val>Descrição</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Paste your data here</key>
+			<val>Cole seus dados aqui...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_date</key>
+			<val>Data da fatura</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_error_code</key>
+			<val>Código do erro de pagamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_pane</key>
+			<val>Resumo de pagamentos</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_processor</key>
+			<val>Provedor de pagamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_processor_fee</key>
+			<val>Taxa do provedor de pagamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_processor_reference</key>
+			<val>Referência do provedor de pagamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_status</key>
+			<val>Status do pagamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_type</key>
+			<val>Método de pagamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_PaymentError</key>
+			<val>Erro de pagamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Position</key>
+			<val>Posição</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quantity does not match quantity computation</key>
+			<val>Esta quantidade foi inserida manualmente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote Details</key>
+			<val>Detalhes do orçamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote not found</key>
+			<val>Nenhum orçamento encontrado para este número de orçamento.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote not yet valid</key>
+			<val>O período de validade do orçamento não começou.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote Request</key>
+			<val>Pedido de orçamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Quote sales area not matching current sales area</key>
+			<val>A área de vendas do orçamento não corresponde à área de vendas especificada.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Reference document is not a contract</key>
+			<val>Este valor não corresponde a um contrato.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Reject</key>
+			<val>Rejeitar</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Requested quantity {0} has been changed to {1} in item {2}</key>
+			<val>A quantidade solicitada {0} foi alterada para {1} para o item de linha {2}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Return Order</key>
+			<val>Pedido de devolução</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SAP Order Number</key>
+			<val>Número SAP do pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SAP Orders Title</key>
+			<val>Pedido SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SDACorrectedDocType</key>
+			<val>Tipo de documento sugerido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Search criteria is case sensitive</key>
+			<val>Campo com distinção entre maiúsculas e minúsculas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SearchViewTitle</key>
+			<val>Pedidos de clientes</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select a customer before starting a conversation</key>
+			<val>Digite um número ou nome de cliente para especificar para qual cliente você deseja enviar uma mensagem.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select a customer before starting a conversation popup title</key>
+			<val>Nova mensagem</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select reject reason</key>
+			<val>Motivo da rejeição</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select SDA Document type</key>
+			<val>Tipo de documento sugerido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select set aside reason</key>
+			<val>Motivo</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SelectOrEnterAtLeastOneEmailAddress</key>
+			<val>Selecione ou digite um endereço de e-mail...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Send message</key>
+			<val>Nova conversa</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SendEmail</key>
+			<val>Enviar esta resposta ao cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SetAside</key>
+			<val>Reservar</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SetAsideComment</key>
+			<val>Comentário de separação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SetAsideReason</key>
+			<val>Motivo de separação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SetAsideTitle</key>
+			<val>Reservar</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Show Parameters</key>
+			<val>Exibir opções de processamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Signature template</key>
+			<val>Assinatura</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Simulation is limited to 4 pricing conditions per item but item {0} gets {1}, calculated total could be different.</key>
+			<val>A simulação é limitada a 4 condições de preços por item, mas o item de linha {0} obtém {1}, o total calculado pode ser diferente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Simulation report failed</key>
+			<val>Erro na simulação.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Simulation results</key>
+			<val>Resultados de simulação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SnackbarWarningChangeOrder</key>
+			<val>Pedido detectado como pedido de alteração</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SOPParameters</key>
+			<val>Opções de processamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Source UOM</key>
+			<val>Clie. UdM</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_StockReplenishment</key>
+			<val>Reposição de estoque</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Target UOM</key>
+			<val>UdM</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_TeachingComment</key>
+			<val>Adicione um comentário para descrever o modelo de pedido:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_TenderNumber</key>
+			<val>Código do concurso (CIG)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The document you tried to retrieve is not an order</key>
+			<val>Este documento SAP não é um pedido.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The net value is {0} and it should be {1} in item {2}</key>
+			<val>O valor líquido é {0} e deveria ser {1} para o item de linha {2}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The order is complete</key>
+			<val>Esse pedido em SAP não pode ser modificado.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The order is linked to customer {0}</key>
+			<val>Este pedido SAP está associado ao cliente {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The ordered quantity of {0} {1} exceeds the remaining quantity allowed by the customer's contract ({2} {3})</key>
+			<val>A quantidade solicitada ({0} {1}) excede a quantidade restante permitida pelo contrato ({2} {3}).</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The sales order total should be {0}</key>
+			<val>O total do pedido de venda deveria ser {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The sales order total should be {0} instead of {1}</key>
+			<val>O total do pedido de vendas deveria ser {0} em vez de {1}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_There is no item in the document.</key>
+			<val>Nenhum item de linha encontrado no documento.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Touchless changed {0}</key>
+			<val>Essas opções foram alteradas. Para esse pedido, o processamento automático foi inicialmente {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_TouchlessErrorUnusualQuantity</key>
+			<val>Quantidade incomum</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Transaction_id</key>
+			<val>Referência de pagamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Unexpected error message</key>
+			<val>Ocorreu um erro. Por favor, tente novamente. Se esse problema persistir, por favor, contate o seu administrador.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Unload SAP order</key>
+			<val>Restaurar os valores do pedido de compra</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_User</key>
+			<val>Contatos internos</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemoved</key>
+			<val>Um destinatário foi excluído. Uma nova conversa será criada.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemovedDialogMessage</key>
+			<val>Remover um destinatário cria uma nova conversa.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemovedDialogTitle</key>
+			<val>Nova conversa</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WARNINGS</key>
+			<val>Avisos</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Yes</key>
+			<val>Excluir</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>{0} ERP IDs have been entered. {1} ERP IDs were expected, separated by spaces.</key>
+			<val>Você inseriu {0} ID, mas este pedido gerou {1} ID de documentos no SAP. Insira estes {1} ID, separados por espaços.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>{0} more...</key>
+			<val>Exibir tudo...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>{0} Orders matching this change order found. Please select the right one</key>
+			<val>{0} pedidos em SAP correspondem a este número de pedido. Selecione a opção correta.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>{0} units of measure were found for material '{1}'</key>
+			<val>{0} unidades de medida foram encontradas para este material. Clique em '...' e selecione a UdM correta.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Action</key>
+			<val>Ação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Add a SAP note</key>
+			<val>Textos SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Additional partners</key>
+			<val>Parceiros adicionais</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Additional Partners</key>
+			<val>Parceiros adicionais</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Address book</key>
+			<val>Catálogo de endereços</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Advanced teaching tab</key>
+			<val>Avançado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Alert on duplicates</key>
+			<val>Alerta sobre duplicatas para esse cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>AlertMultiPostingWithWebServicesDesc</key>
+			<val>O agrupamento de itens de linha é incompatível com sua integração SAP via serviços Web. Por favor, contate o seu administrador.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>AlertMultiPostingWithWebServicesTitle</key>
+			<val>Impossível postar no SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>All prices are correct.</key>
+			<val>Todos os preços correspondem aos preços no ERP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>An unexpected error occured with the SAP connectivity</key>
+			<val>Ocorreu um erro inesperado com a conexão SAP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>An unexpected error occured with the SAP connectivity. Retrying...</key>
+			<val>Ocorreu um erro inesperado com a conexão SAP. Repetindo...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Archive</key>
+			<val>Arquivar</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Archive only...</key>
+			<val>Arquivar apenas...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>At least one required field is missing.</key>
+			<val>Um ou mais campos obrigatórios estão em branco.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatic Processing</key>
+			<val>Processamento automático</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatic processing failure reasons</key>
+			<val>Verificações preliminares em erro</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatic processing is possible</key>
+			<val>Verificações preliminares concluídas com sucesso</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatically modified fields</key>
+			<val>Campos automatizados</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Automatically modified table fields</key>
+			<val>Campos de tabela automatizados</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Availability question</key>
+			<val>Solicitação de disponibilidade</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Billing block</key>
+			<val>Bloco de faturamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Book</key>
+			<val>Marcar pedido no Oracle EBS</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Business area</key>
+			<val>Divisão</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Cancel</key>
+			<val>Cancelar</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>CANCELLED</key>
+			<val>Cancelado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Case_ID__</key>
+			<val>ID do caso no Salesforce</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Case_Number__</key>
+			<val>Número do caso</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Case_URL__</key>
+			<val>Número do caso</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Case_URL_Saved__</key>
+			<val>URL do caso</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ChangeOrderLineItemAction__</key>
+			<val>Operação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>City</key>
+			<val>Cidade</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Claim</key>
+			<val>Reclamação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Combined order</key>
+			<val>Pedido original</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Comments:</key>
+			<val>Comentários:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Complete delivery</key>
+			<val>Entrega completa</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Complete delivery text on document</key>
+			<val>Palavras-chave de entrega completas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Condition {0} is missing in pricing procedure {1} {2} {3}</key>
+			<val>A condição {0} está ausente no procedimento de preços {1} {2} {3}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ConfirmArchiving {0}</key>
+			<val>O pedido foi associado com sucesso ao ID do documento SAP {0}. As informações do campo de cabeçalho foram recuperadas do SAP para indexação e pesquisas futuras.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Connection lost with SAP</key>
+			<val>A conexão com o SAP foi perdida.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contact Email</key>
+			<val>E-mail de contato</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contact login</key>
+			<val>Contato</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Description</key>
+			<val>Descrição</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Description Column</key>
+			<val>Descrição</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Item Number Column</key>
+			<val>Item do contrato n.º</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Item Title</key>
+			<val>Item do contrato</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Number</key>
+			<val>Número</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Number Column</key>
+			<val>Número</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Title</key>
+			<val>Selecionar contrato</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Validity Begin Column</key>
+			<val>Válido a partir de</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Contract Validity End Column</key>
+			<val>Válido até</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ContractAvailableQuantity</key>
+			<val>Quantidade restante do contrato</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ContractItemNumber</key>
+			<val>Item do contrato n.º</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ContractNumber</key>
+			<val>Número de contrato</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Conversation</key>
+			<val>Conversas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Conversation with {0}</key>
+			<val>Conversas com {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Could not retrieve status of quote</key>
+			<val>Erro ao recuperar o status do orçamento.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Country</key>
+			<val>País</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Credit issue</key>
+			<val>Verificação de crédito</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Currency</key>
+			<val>Moeda do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer '{0}' is inconsistent with partner '{1}'.</key>
+			<val>O número do cliente {0} e o número do parceiro {1} não correspondem.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer '{0}' not found</key>
+			<val>Cliente '{0}' não encontrado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer asked for cancellation</key>
+			<val>Cancelamento solicitado pelo cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer City</key>
+			<val>Cidade do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Country</key>
+			<val>País do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Information</key>
+			<val>Informação do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer issue</key>
+			<val>Problema do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Material</key>
+			<val>Material extraído</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Name</key>
+			<val>Nome do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Number</key>
+			<val>Número do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer number doesn't exist in the current organization</key>
+			<val>Número de cliente não encontrado para a unidade operacional selecionada.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Order Processing</key>
+			<val>Pedido do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Order Processing (distinguisher)</key>
+			<val>{0} (OM)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Postal Code</key>
+			<val>Código postal do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Region</key>
+			<val>Região do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Street</key>
+			<val>Rua do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>CustomerVendor</key>
+			<val>Cliente externo n.º</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>CustomerVendor_report</key>
+			<val>Cliente externo n.º</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Default Order Type doesn't exist in the current organization</key>
+			<val>Nenhum tipo de pedido padrão encontrado para a unidade operacional selecionada.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Deleted</key>
+			<val>Rejeição</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Delivery block</key>
+			<val>Bloco de entrega</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Delivery date</key>
+			<val>Data de entrega solic.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Delivery date_report</key>
+			<val>Data de entrega (ERP)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Description</key>
+			<val>Descrição</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch as attachment</key>
+			<val>Adicionar como anexo a cada novo pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch attachments</key>
+			<val>Gerenciar documentos</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_Cancel</key>
+			<val>Cancelar</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_help_text</key>
+			<val>Adicionar como anexo a cada novo pedido - Ajuda contextual</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_help_tooltip</key>
+			<val>Selecione "Criar novo pedido" para processar um documento separadamente como um pedido de cliente independente. Selecione "Adicionar como anexo a cada novo pedido" para anexar um documento a cada novo pedido do cliente criado nesta seção. Selecione "Descartar" para ignorar um documento se ele não for obrigatório para processar o pedido do cliente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_OK</key>
+			<val>Concluir</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Dispatch_pane</key>
+			<val>Gerenciar documentos</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Display copo creation warning on conversation init</key>
+			<val>Você está prestes a iniciar uma conversa com {0}, que publicará automaticamente o pedido no portal do cliente. Você quer continuar?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Display publish on portal warning for conversation</key>
+			<val>Você está prestes a iniciar uma conversa com {0}, que publicará automaticamente o documento no portal do cliente dele. Você quer continuar?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Displays the Quantity/UoM column. You can capture an area containing a quantity and UoM to automatically fill the Quantity field.</key>
+			<val>Permite a extração automática da quantidade quando seguida por uma unidade de medida. Se esta opção for selecionada, a coluna "Quantidade extr./UdM" será exibida na tabela "Itens". Ao clicar duas vezes na quantidade do pedido, o valor é preenchido na coluna "Quantidade extr./UdM" e a coluna padrão "Quantidade" é atualizada automaticamente com o valor extraído. A coluna padrão "UdM" não é atualizada com a unidade de medida encontrada na coluna "Quantidade extr./UdM".</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Displays the Unit Price/UoM column. You can capture an area containing a unit price and UoM to automatically fill the Unit Price field.</key>
+			<val>Permite a extração automática do preço unitário quando seguido por uma unidade de medida. Se esta opção for selecionada, a coluna "Preço unitário ext./UdM" será exibida na tabela "Itens". Ao clicar duas vezes no preço unitário do pedido, o valor é preenchido na coluna "Preço unitário ext/UdM" e a coluna padrão "Preço unitário" é atualizada automaticamente com o valor extraído. A coluna padrão "UdM" não é atualizada com a unidade de medida encontrada na coluna "Preço unitário ext./UdM".</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Distribution channel</key>
+			<val>Canal de distribuição</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>District</key>
+			<val>Distrito</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Do not alert on duplicates</key>
+			<val>Não alertar sobre duplicatas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Do not check duplicates for this document anymore</key>
+			<val>Não verificar mais duplicatas para este documento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document already processed</key>
+			<val>Documento já processado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document automatically processed</key>
+			<val>Documento processado automaticamente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document ERP ID</key>
+			<val>ID do documento ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document is not an order</key>
+			<val>Tipo de documento de vendas incorreto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Document Type</key>
+			<val>Tipo de pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>DocumentEDIWorkflowID</key>
+			<val>ID do pedido NSO</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship Address</key>
+			<val>Endereço do envio direto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to</key>
+			<val>Nome</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to City</key>
+			<val>Cidade do envio direto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to Country</key>
+			<val>País do envio direto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to name</key>
+			<val>Nome do envio direto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to name 2</key>
+			<val>Nome adicional do envio direto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to Postal Code</key>
+			<val>Código postal do envio direto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to Region</key>
+			<val>Região o envio direto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Drop-Ship to Street</key>
+			<val>Rua do envio direto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>DropShipToAddress_TransportationZone_report</key>
+			<val>Zona de transporte</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Due date</key>
+			<val>Data de entrega solicitada</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Duplicate document detected</key>
+			<val>Duplicata detectada</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Duplicates have been detected</key>
+			<val>Foram detectadas duplicatas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI</key>
+			<val>EDI</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Format</key>
+			<val>Padrão EDI</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Number</key>
+			<val>Número EDI</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Status Code</key>
+			<val>Código de status</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Status Message</key>
+			<val>Mensagem de status</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Status Text</key>
+			<val>Status</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Type</key>
+			<val>Tipo EDI</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI Version</key>
+			<val>Versão EDI</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDI_Pannel</key>
+			<val>Recebimento de pedidos via EDI</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDITransmissionStatus</key>
+			<val>Status de entregas EDI</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>EDIWorkflowID</key>
+			<val>ID do fluxo NSO</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Email</key>
+			<val>E-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>E-mail address</key>
+			<val>Endereço de e-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Email was flagged with high importance</key>
+			<val>Pedido recebido por e-mail de alta prioridade</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Empty or duplicate PO number</key>
+			<val>Número de pedido de compra em branco ou pedido duplicado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Enabled for this customer</key>
+			<val>Habilitado para este cliente para este tipo de documento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Enter an order</key>
+			<val>Inserir um pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP delivery date</key>
+			<val>Data de entrega estimada</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP delivery date_report</key>
+			<val>Data de entrega estimada</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP ID</key>
+			<val>ID ERP do documento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP Information</key>
+			<val>Informação ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERP Integration</key>
+			<val>Integração ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERPOrderErrors</key>
+			<val>Mensagem de erro ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Error</key>
+			<val>Erro</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERROR</key>
+			<val>Com erro</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Error creating record MRU_PO</key>
+			<val>Ocorreu um erro ao criar o registro MRU_PO.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Extracted Description</key>
+			<val>Descrição extr.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Extracted from QuantityUoM</key>
+			<val>Origem: Aprendizado automático - Valor recuperado do campo "Quantidade extr./UdM"</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Extracted from UnitPriceUoM</key>
+			<val>Origem: Aprendizado automático - Valor recuperado do campo "Preço unitário externo/UdM"</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ExtractedSAPTexts</key>
+			<val>Textos SAP (formato JSON)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ExtractedSAPTextsLanguage</key>
+			<val>Textos SAP - Linguagem atual (formato JSON)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ExtractedSAPTextsLanguageList</key>
+			<val>Textos SAP - Lista de idiomas (formato JSON)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Failed to add bapi: {0}</key>
+			<val>Erro ao adicionar BAPI: {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Failed to connect</key>
+			<val>Erro ao conectar ao SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Failed to create Bapi Manager: {0}</key>
+			<val>Erro ao criar instância do BAPI Manager: {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Failed to instantiate SAPProxy</key>
+			<val>Erro ao criar instância do SAPProxy</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Fax</key>
+			<val>Fax</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Forbidden : This name is forbidden</key>
+			<val>Este nome não é válido.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Force approve</key>
+			<val>Lançar novamente no SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Found Keyword: {0} in attachment</key>
+			<val>Palavra-chave '{0}' encontrada no documento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Found Keyword: {0} in e-mail body</key>
+			<val>Palavra-chave '{0}' encontrada no corpo do e-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Found Keyword: {0} in e-mail subject</key>
+			<val>Palavra-chave '{0}' encontrada no assunto do e-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>From configuration</key>
+			<val>Pré-configurado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Function</key>
+			<val>Função</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>General</key>
+			<val>Configuração</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>General Informations</key>
+			<val>Informação geral</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Generic</key>
+			<val>Universal</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>genericLayoutDescription</key>
+			<val>Se seu pedido diz respeito a vários clientes, você pode enviar um pedido de ensino de vários clientes ao usuário responsável pelo ensino. Digite um nome para o seu modelo de pedido:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Hide SAP texts</key>
+			<val>Ocultar textos SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Identifier</key>
+			<val>Número</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>IDOC {0} retrieved from SAP with status</key>
+			<val>O IDOC {0} foi importado do SAP com o seguinte status</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>IDOC Message</key>
+			<val>Informações de status do IDOC</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>If at least 1 value is identical</key>
+			<val>Se, pelo menos, 1 valor for idêntico</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>If at least 2 values are identical</key>
+			<val>Se, pelo menos, 2 valores forem idênticos</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>If at least 3 values are identical</key>
+			<val>Se, pelo menos, 3 valores forem idênticos</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ignore simulation for post</key>
+			<val>Ignorar simulação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ignore simulation warnings</key>
+			<val>Ignorar avisos de simulação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ignore this attachment</key>
+			<val>Descartar</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inbound channel name</key>
+			<val>Nome do canal de entrada</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Incoherent CustomerNumber and ShipToAddress</key>
+			<val>As informações do cliente e o endereço de envio não correspondem.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent data set: found more than 1 material with the EAN {0}.</key>
+			<val>Há mais de um material com o código EAN {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent date</key>
+			<val>Data inconsistente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent due date</key>
+			<val>Data de entrega inconsistente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent Email</key>
+			<val>Endereço de e-mail inválido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inconsistent PO date</key>
+			<val>Data do pedido inconsistente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Incoterms</key>
+			<val>Incoterms</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Incoterms2</key>
+			<val>Incoterms 2</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Information</key>
+			<val>Informação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Inserted</key>
+			<val>Adição</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid customer number</key>
+			<val>Número de cliente inválido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid Email caracters</key>
+			<val>O endereço de e-mail pode conter apenas letras, números, pontos (.), traços (-), sublinhados (_) e sinais de arroba (@). Corrija o endereço especificado ou esvazie o campo.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid material</key>
+			<val>Material inválido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid quantity</key>
+			<val>Quantidade inválida</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid sales area key selected</key>
+			<val>A área de vendas selecionada é inválida.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid sales area: {0}</key>
+			<val>Área de vendas inválida: {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid ship to number</key>
+			<val>Número de envio inválido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid total</key>
+			<val>Total inválido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invalid unit</key>
+			<val>Unidade inválida</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invoice question</key>
+			<val>Pergunta sobre fatura</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Is Line Item Split Order</key>
+			<val>Vários pedidos gerados no ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Is Sap Line Item Split Order</key>
+			<val>Vários pedidos gerados no ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item categories</key>
+			<val>Categorias do item</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item number</key>
+			<val>Número de item de linha</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item reconciliation number</key>
+			<val>Item de orçamento n.º</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item Type</key>
+			<val>Tipo de item</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Item_notif_recap</key>
+			<val>item</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ItemIdentifierType</key>
+			<val>Tipo de identificador do item</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Items</key>
+			<val>Itens</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Items_notif_recap</key>
+			<val>itens</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ItemsCount</key>
+			<val>N.º de linhas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ItemValidationOrg</key>
+			<val>ID da organização de validação do item</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Itm Cat.</key>
+			<val>Itm. cat.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>jsonfromportal__</key>
+			<val>Pedido do portal em formato JSON</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Layout Identifier</key>
+			<val>Modelo de pedido para vários clientes</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line Item Split Group Id</key>
+			<val>Chave de agrupamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line item split status</key>
+			<val>Integração ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line Number</key>
+			<val>N.º de linha</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line rejection reason</key>
+			<val>Motivo da rejeição</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line Type</key>
+			<val>Tipo de linha</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Line Type Id</key>
+			<val>ID do tipo de linha</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>LineTypes</key>
+			<val>Tipos de linha</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Load items from quote</key>
+			<val>Carregar itens do orçamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Manually modified fields</key>
+			<val>Campos manuais</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Manually modified table fields</key>
+			<val>Campos de tabela manuais</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material</key>
+			<val>Material ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material Description Column</key>
+			<val>Descrição</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material Information</key>
+			<val>Informações do material</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material invalid</key>
+			<val>Nenhum texto SAP foi encontrado para o número de material ERP especificado.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material Number Column</key>
+			<val>Material ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material number doesn't exist in the current organization</key>
+			<val>Número de material não encontrado para a unidade operacional selecionada.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Material number not found in ERP, please check this value</key>
+			<val>Número do material não encontrado no ERP; verifique este valor.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Maximum of records : {0}</key>
+			<val>Número máximo de resultados: {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Message</key>
+			<val>Mensagem</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Message details</key>
+			<val>Detalhes da mensagem</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Mobile Application</key>
+			<val>Aplicativo móvel</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>More Sales Information</key>
+			<val>Informações adicionais de vendas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Multiple candidates</key>
+			<val>Existem múltiplos endereços de envio associados a este cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Multiple SoldTo and ShipTo candidates</key>
+			<val>Existem múltiplos clientes associados a este endereço de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Name</key>
+			<val>Nome</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Name 2</key>
+			<val>Nome adicional</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>National Code</key>
+			<val>Outro identificador</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NewMessageDefaultSubject</key>
+			<val>Nova mensagem sobre o pedido n.º {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NewMessageOK</key>
+			<val>OK</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No configured calculation procedure</key>
+			<val>Nenhum procedimento de cálculo configurado.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No match</key>
+			<val>Nenhuma correspondência encontrada</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No matching order found with this change order</key>
+			<val>Nenhum pedido em SAP encontrado com este número de pedido.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No material found for the customer material '{0}'</key>
+			<val>Nenhum material encontrado para o material do cliente '{0}'</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No partner related to this delivery address found</key>
+			<val>Nenhum número de envio com este endereço de envio encontrado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No ship to address found for customer '{0}'</key>
+			<val>Nenhum endereço de envio encontrado para o cliente '{0}'</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No shipping adress available for this customer in the current sales area</key>
+			<val>Nenhum endereço de envio encontrado para a combinação de cliente/área de vendas selecionada.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>No unit found for the material '{0}'</key>
+			<val>Nenhuma unidade encontrada para o material '{0}'</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Non-supported IDOC version</key>
+			<val>Esta versão IDOC não é suportada.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Note language</key>
+			<val>Idioma</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Note text</key>
+			<val>Texto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Note type</key>
+			<val>Tipo</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Notes</key>
+			<val>Textos SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Notes data</key>
+			<val>Detalhes dos textos SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSO complete order</key>
+			<val>Pedido completo</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSO simple order</key>
+			<val>Pedido simples</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSOLinkedOrderNotFound</key>
+			<val>Este pedido está associado a um ou mais pedidos existentes. No entanto, não conseguimos encontrar esses pedidos em seu aplicativo. Por favor, contate o seu administrador.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSOProcessType</key>
+			<val>Tipo de processo NSO</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSORelatedOrderExists : {0}</key>
+			<val>Este documento está relacionado a um ou mais pedidos existentes. Por favor, processe-o manualmente no seu ERP. Localize os pedidos relacionados executando uma pesquisa pelo ID de fluxo NSO {0} na parte superior da sua página inicial.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>NSORelatedOrderExistsTitle</key>
+			<val>Informação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number</key>
+			<val>Número</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number of automatically modified fields</key>
+			<val>N.º de campos automatizados</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number of automatically modified table fields</key>
+			<val>N.º de campos automatizados da tabela</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number of manually modified fields</key>
+			<val>N.º de campos manuais</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Number of manually modified table fields</key>
+			<val>N.º de campos manuais da tabela</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Only Orders IDOC are supported</key>
+			<val>Apenas IDOC do tipo "Pedidos" são suportados.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Only the default unit '{0}' matches the material '{1}'</key>
+			<val>Digite a unidade padrão '{0}' para este item ({1}).</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Open related case in Salesforce</key>
+			<val>Exibir caso no Salesforce</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Open related order</key>
+			<val>Visualizar pedido inicial</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Operating Unit</key>
+			<val>Unidade operacional</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Options</key>
+			<val>Opções de lançamento do SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Oracle EBS</key>
+			<val>Oracle EBS</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Oracle Web Service Error: {0}</key>
+			<val>Erro do serviço Web Oracle EBS: {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OracleOrderErrors</key>
+			<val>Mensagem de erro Oracle</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OraclePostingOptions</key>
+			<val>Opções de lançamento do Oracle EBS</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OracleRequestId</key>
+			<val>ID da solicitação Oracle</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order {0} generated in SAP</key>
+			<val>Pedido SAP {0}</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order category code</key>
+			<val>Categoria</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Creation Error</key>
+			<val>Erro na criação do pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Processing Delay (days)</key>
+			<val>Tempo decorrido desde o SLA (dias)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Processing Duration (minutes)</key>
+			<val>Tempo de processamento do pedido (minutos)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order question</key>
+			<val>Pergunta sobre pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order reason</key>
+			<val>Motivo do pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order status</key>
+			<val>Status do pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type</key>
+			<val>Tipo de pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type doesn't exist in the current organization</key>
+			<val>Tipo de pedido não encontrado para a unidade operacional selecionada.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type has several matches for this name</key>
+			<val>Este nome corresponde a vários ID de tipo de pedido.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type ID</key>
+			<val>ID do tipo de pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type Name</key>
+			<val>Nome</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order Type_report</key>
+			<val>Tipo de pedido (Oracle EBS)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderAccepted</key>
+			<val>Aprovados</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderAcceptedOracle</key>
+			<val>Reservado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderArchived</key>
+			<val>Arquivado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderCancelled</key>
+			<val>Rejeitados</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderConfirmed</key>
+			<val>Confirmado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderCreationError</key>
+			<val>Erro ao criar pedido no ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderDelivered</key>
+			<val>Entregue</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderEntered</key>
+			<val>Introduzido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderPartiallyAccepted</key>
+			<val>A integração do ERP apresentou um erro parcial</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderReceived</key>
+			<val>Entrega confirmada</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderShipped</key>
+			<val>Enviado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>OrderTypes</key>
+			<val>Tipos de pedidos</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Other</key>
+			<val>Outros</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PAID</key>
+			<val>Sucesso</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Parameters</key>
+			<val>Opções</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Part number issue</key>
+			<val>Problema com o número de material</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PARTIALLYPAID</key>
+			<val>Parcialmente pago</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner Affiliation</key>
+			<val>Parte designada</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner function {0} has already been used for another partner</key>
+			<val>A função {0} já está sendo usada para outo parceiro.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner function {0} is not allowed. You can use one of the following : </key>
+			<val>A função de parceiro {0} não é permitida. Você pode usar um dos seguintes:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner ID</key>
+			<val>Número</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner Information</key>
+			<val>Endereço de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner name</key>
+			<val>Nome do parceiro</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner not found</key>
+			<val>Parceiro não encontrado.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Partner number doesn't exist in the current organization</key>
+			<val>Número de parceiro não encontrado para a unidade operacional selecionada.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Payment Terms</key>
+			<val>Condições de pagamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Payt Terms</key>
+			<val>Pagamento Prazos</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>per</key>
+			<val>por</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Phone</key>
+			<val>Número de telefone</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Plant</key>
+			<val>Fábrica</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Plants</key>
+			<val>Fábricas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please check that the following fields are filled in: {0}, {1}, {2}, {3}, {4} and {5}.</key>
+			<val>Os seguintes campos são obrigatórios para realizar a verificação de preço: - {0} - {1} - {2} - {3} - {4} - {5} Verifique se estão preenchidos corretamente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please enter below the ERP Document ID you want to associate for the file being processed</key>
+			<val>Para vincular este documento ao pedido atualizado manualmente, digite o ID do documento no ERP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please enter below the ERP Document IDs you want to associate for the file being processed</key>
+			<val>Digite os ID do documento SAP aos quais você deseja associar este pedido.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please enter below the SAP Document ID you want to associate for the file being processed</key>
+			<val>Digite o ID do documento SAP ao qual você deseja associar o arquivo atual.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please fill a valid customer for ship to</key>
+			<val>Digite informações válidas do cliente para pesquisar endereços de envio  disponíveis.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please specify a customer number.</key>
+			<val>Por favor, especifique um número de cliente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please specify a sales area.</key>
+			<val>Por favor, especifique uma área de vendas.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please specify a sales office.</key>
+			<val>Por favor, especifique um escritório de vendas.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Please specify an Item</key>
+			<val>Você precisa especificar um número de material ERP para recuperar o texto SAP correspondente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PO Box</key>
+			<val>Caixa postal</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PO date</key>
+			<val>Data do pedido de compra</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PO number</key>
+			<val>Número do pedido de compra</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PO number and Customer number needed to search for order</key>
+			<val>Especifique o número do cliente e o número do pedido de compra.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval content1</key>
+			<val>Existe o risco de pedidos duplicados no SAP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval content2</key>
+			<val>Verifique se o pedido já foi criado no SAP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval content3</key>
+			<val>Se o pedido foi criado com sucesso no SAP, use o botão "Apenas arquivar" para associar este pedido aos ID de documentos SAP correspondentes.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval content4</key>
+			<val>Caso contrário, publique o pedido novamente.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval subtitle</key>
+			<val>Ocorreu um erro ao lançar esse pedido no SAP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Popup SAP Error approval title</key>
+			<val>Risco de pedidos duplicados no SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Portal</key>
+			<val>Portal</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Portal Information</key>
+			<val>Informações do portal</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Post</key>
+			<val>Aprovar</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Post and wait for SAP document number</key>
+			<val>Aguarde a publicação dos resultados</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Postal Code</key>
+			<val>Código postal</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Pre Agreed Form</key>
+			<val>Abrir pedido pré-acordado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price check</key>
+			<val>Verificar preços</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price check - Oracle Web Service Error</key>
+			<val>Erro na verificação de preços</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price check warning({0}): {1}</key>
+			<val>{1} (Código de erro do Oracle EBS: {0})</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price check warning: expected Total = '{0} ({1})'. Unit Price = '{2} ({3})'.</key>
+			<val>O preço unitário deste item no ERP é {3} {2}. O total de linhas esperado é {1} {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price discrepancies</key>
+			<val>Incompatibilidade de preços com ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Price list</key>
+			<val>Lista de preços</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PriceList</key>
+			<val>Lista de preços</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PriceList_Id</key>
+			<val>ID da lista de preços</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Pricing condition data</key>
+			<val>Detalhes da condição do preço</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Pricing conditions</key>
+			<val>Condições de preços</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Pricing issue</key>
+			<val>Problema do preço</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Priority</key>
+			<val>Prioridade</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Process Name</key>
+			<val>Nome do processo</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Product list</key>
+			<val>Itens</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Product question</key>
+			<val>Pergunta sobre produto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Property not defined in database</key>
+			<val>Esta informação não foi encontrada na tabela de dados mestre</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Property not defined in EDI file</key>
+			<val>Esta informação não foi encontrada no pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quantity</key>
+			<val>Quantidade</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quantity does not match the remaining quantity from quote: {0}</key>
+			<val>A quantidade não corresponde à quantidade em aberto do item orçamentado: {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quantity UoM</key>
+			<val>Quantidade extr./UdM</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quantity UoM visible</key>
+			<val>Capturar quantidade de uma combinação de quantidade/UdM</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Item Number Column</key>
+			<val>Item de orçamento n.º</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Item Title</key>
+			<val>Item de orçamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Number</key>
+			<val>Número de orçamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Number Column</key>
+			<val>Número</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Total</key>
+			<val>Valor do orçamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotation Validity Column</key>
+			<val>Válido até</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quotations Title</key>
+			<val>Selecionar orçamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote request</key>
+			<val>Pedido de orçamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote Valid From Column</key>
+			<val>Válido a partir de</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote_End_Date</key>
+			<val>Válido até</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote_Start_Date</key>
+			<val>Válido a partir de</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>QuoteAvailableQuantity</key>
+			<val>Quantidade do orçamento restante</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Rate</key>
+			<val>Classificar</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Reception datetime</key>
+			<val>Recebido em</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Region</key>
+			<val>Região</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>RejectComment</key>
+			<val>Comentário de rejeição</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>RejectReason</key>
+			<val>Motivo da rejeição</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Reload line items from the order</key>
+			<val>Recuperar itens do pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Remaining net Column</key>
+			<val>Valor restante</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Remaining quantity Column</key>
+			<val>Quantidade restante</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Request teaching</key>
+			<val>Solicitar ensino</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Request teaching pending</key>
+			<val>Por favor, aguarde enquanto seu pedido de ensino está sendo submetido...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Request teaching...</key>
+			<val>Solicitar ensino...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ResultsList</key>
+			<val>Lista de resultados</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Revised order</key>
+			<val> Pedido de alteração</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Revised order_report</key>
+			<val> Pedido de alteração</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Rule length exceeded : 20 characters maximum</key>
+			<val>O número máximo de caracteres é 20.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Running total</key>
+			<val>Total calculado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Area</key>
+			<val>Área de vendas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales group</key>
+			<val>Grupo de vendas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Information</key>
+			<val>Informações de vendas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales office</key>
+			<val>Escritório de vendas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Order {0} (customer: {1}, amount: {2}, date:{3})</key>
+			<val>Pedido {0} (cliente: {1}, valor: {2}, data: {3})</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Order Details</key>
+			<val>Detalhes do pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales order priority</key>
+			<val>Prioridade do pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales organization</key>
+			<val>Organização de vendas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sales Person</key>
+			<val>Vendedor</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SalesDocumentType__</key>
+			<val>Tipo de documento de vendas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SalesForce</key>
+			<val>Salesforce</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SalesRep_Id</key>
+			<val>ID do vendedor</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SalesRepID</key>
+			<val>Grupo de atribuição de vendas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP Error</key>
+			<val>Erro SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP ID</key>
+			<val>ID SAP do documento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP Information</key>
+			<val>Informação SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Sap Line Item Split Document Id</key>
+			<val>ID ERP do documento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP returned an incorrect simulation report.</key>
+			<val>O SAP retornou um relatório de simulação incorreto.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP Simulation</key>
+			<val>Simulação SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP simulation timeout.</key>
+			<val>A simulação SAP não terminou dentro do período de tempo limite.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP texts</key>
+			<val>Textos SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP timeout</key>
+			<val>A conexão com o SAP não pôde ser estabelecida dentro do período de tempo limite.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP view {0} is not available</key>
+			<val>A seguinte visualização está ausente no SAP: {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP_Simulation_Error__</key>
+			<val>Erro de simulação do SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SAP_Simulation_Warning__</key>
+			<val>Aviso de simulação do SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Search</key>
+			<val>Pesquisar</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Search key</key>
+			<val>Chave de pesquisa</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Selected partner</key>
+			<val>Selecionar</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Send an email</key>
+			<val>Enviar um e-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Send confirmation notification</key>
+			<val>Enviar notificação de processamento de pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship Method</key>
+			<val>Método de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship method is not available for selected warehouse</key>
+			<val>Este método de envio não está disponível para o armazém selecionado.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to</key>
+			<val>Nome</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Address</key>
+			<val>Endereço de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Captured Address</key>
+			<val>Envio direto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Captured Address Action</key>
+			<val>Envio direto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to City</key>
+			<val>Cidade de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Country</key>
+			<val>País de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to name</key>
+			<val>Nome de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to name 2</key>
+			<val>Nome adicional de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Number</key>
+			<val>Número de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to number '{0}' not found</key>
+			<val>Número de envio '{0}' não encontrado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Postal Code</key>
+			<val>Código postal de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Region</key>
+			<val>Região de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Ship to Street</key>
+			<val>Rua de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Shipping Address</key>
+			<val>Endereço de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Shipping condition</key>
+			<val>Condição de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Shipping date</key>
+			<val>Data de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShipToAddress</key>
+			<val>Endereço de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShipToAddressHelpText</key>
+			<val>Você pode ajudar a melhorar o reconhecimento do endereço de entrega capturando manualmente o endereço de envio no pedido.&lt;br&gt; Clique neste campo e selecione o bloco de endereço de envio na visualização do documento, mantendo pressionado o botão esquerdo do mouse.&lt;br&gt; Esta posição de endereço de envio será usada para detectar automaticamente o endereço de entrega em pedidos futuros com um layout semelhante.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShipToAddressPlaceHolder</key>
+			<val>Clique aqui e selecione a zona de endereço de envio no pedido...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>shiptoediaddress__</key>
+			<val>Pedido EDI - Endereço de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShiptoVendor</key>
+			<val>Número externo de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ShiptoVendor_report</key>
+			<val>Número externo de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Show extracted description column</key>
+			<val>Exibir coluna “Descrição extraída”</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Show SAP texts</key>
+			<val>Exibir textos SAP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Simulate</key>
+			<val>Simular</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Simulation Report</key>
+			<val>Relatório de simulação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Skip price check</key>
+			<val>Ignorar verificação de preço</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SLAMet</key>
+			<val>Tempo objetivo de SLA atingido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Automatic processing__</key>
+			<val>OM - Processamento automático</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Complete Delivery Mapping__</key>
+			<val>OM - Mapeamento completo de palavras-chave de entrega</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Configuration__</key>
+			<val>Configuração de gerenciamento de pedidos</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Currencies__</key>
+			<val>OM - Divisas</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Customer material mapping autolearn__</key>
+			<val>OM - Mapeamento de material corrigido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Customers__</key>
+			<val>OM - Clientes</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Duplicate alert__</key>
+			<val>OM - Alerta duplicado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - ERP/Customer material mapping__</key>
+			<val>OM - Mapeamento de material</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - External partner identifier mapping__</key>
+			<val>OM - Mapeamento de número de parceiro externo/número de parceiro interno</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Global filters__</key>
+			<val>OM - Filtros globais</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Global settings__</key>
+			<val>OM - Preferências padrão de configuração</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - LineTypes__</key>
+			<val>OM - Tipos de linha</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Materials__</key>
+			<val>OM - Material</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - OrderTypes__</key>
+			<val>OM - Tipos de pedidos</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Organizations__</key>
+			<val>OM - Unidades operacionais</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Partners__</key>
+			<val>OM - Parceiros</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - PriceLists__</key>
+			<val>OM - Listas de preços</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - SalesPerson__</key>
+			<val>OM - Vendedores</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Ship to address/number mapping__</key>
+			<val>OM - Endereços de envio/mapeamento de números de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - ShipMethod__</key>
+			<val>OM - Métodos de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Sold to address/number mapping__</key>
+			<val>OM - Mapeamento de endereços de venda/números de clientes</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - TaxCodes__</key>
+			<val>OM - Códigos de imposto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Units of measure/Material mapping__</key>
+			<val>OM - Unidades de medida/materiais</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Units of measure__</key>
+			<val>OM - Unidades de medida</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - UOM Conversion__</key>
+			<val>OM - Conversão de unidades de medida</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SO - Warehouses__</key>
+			<val>OM - Armazéns</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SoldToAddress</key>
+			<val>Endereço do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SoldToAddressHelpText</key>
+			<val>Você pode ajudar a melhorar o reconhecimento do endereço do cliente capturando manualmente o endereço do cliente no pedido.&lt;br&gt; Clique neste campo e selecione o bloco de endereço do cliente na visualização do documento, mantendo pressionado o botão esquerdo do mouse.&lt;br&gt; Esta posição de endereço será usada para detectar automaticamente o endereço do cliente em pedidos futuros com um layout semelhante.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SoldToAddressPlaceHolder</key>
+			<val>Clique aqui e selecione a zona de endereço do cliente no pedido...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>soldtoediaddress__</key>
+			<val>Pedido EDI - Endereço de cobrança</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Some prices are not correct.</key>
+			<val>Um ou mais preços não correspondem aos preços no ERP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Source</key>
+			<val>Recebido através de</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>SourceSubject</key>
+			<val>Assunto do e-mail</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Split Order</key>
+			<val>Divisão após agrupamento de itens de linha</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Standard</key>
+			<val>Padrão</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Standard Order (TA)</key>
+			<val>Pedido padrão (TA)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Standard teaching tab</key>
+			<val>Padrão</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>standardLayoutDescription</key>
+			<val>Você está prestes a enviar uma solicitação ao usuário responsável pelo ensino para melhorar o reconhecimento dos pedidos emitidos pelo fornecedor n.º {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Stock issue</key>
+			<val>Problema com o estoque</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Storage location</key>
+			<val>Local de armazenamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Storage Location</key>
+			<val>Local de armazenamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Street</key>
+			<val>Rua</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Subject</key>
+			<val>Assunto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Submit as new separate order</key>
+			<val>Criar novo pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Success</key>
+			<val>Concluído</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Table</key>
+			<val>Tabela</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Target quantity Column</key>
+			<val>Quantidade objetivo</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Tax Code</key>
+			<val>Código de imposto</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Teach customer address</key>
+			<val>Ajudar a localizar o endereço do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Teach shipping address</key>
+			<val>Ajudar a localizar o endereço de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The customer number is required</key>
+			<val>O número do cliente é obrigatório</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The customer number is required for teaching</key>
+			<val>Especifique o número do cliente antes de enviar seu pedido de ensino.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The document you tried to retrieve is not a quotation</key>
+			<val>Este valor não corresponde a um orçamento.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The ERP Document ID is requiered to archive only</key>
+			<val>Você precisa digitar o ID do documento SAP para arquivar este pedido.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The expected total price of this item in the ERP is {0} {1}.</key>
+			<val>O total de linhas esperado é {1} {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The expected unit price of this item in the ERP is {0} {1}.</key>
+			<val>O preço unitário deste item no ERP é {1} {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The material is required</key>
+			<val>O material é obrigatório</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The quotation is linked to customer {0}</key>
+			<val>Este orçamento está associado ao cliente {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The quote is completed</key>
+			<val>O orçamento está completo.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The running total and total do not match</key>
+			<val>O total extraído não corresponde ao total calculado.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The sales order date is required</key>
+			<val>Por favor, especifique a data do pedido.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The SAP Document ID is requiered to archive only</key>
+			<val>Você precisa digitar o ID do documento SAP para arquivar este arquivo.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The teaching request has been successfully submitted</key>
+			<val>Seu pedido de ensino foi submetido com sucesso.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The teaching request has failed</key>
+			<val>Ocorreu um erro ao enviar seu pedido de ensino. Por favor, contate o seu administrador.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The total does not match the total outstanding amount of the quotation</key>
+			<val>O total não corresponde ao saldo total do orçamento.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The total must equal the sum of the line item totals ({0})</key>
+			<val>O valor total deve ser igual à soma dos totais dos itens de linha ({0})</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The validity date of the quote is exceeded</key>
+			<val>A data de validade do orçamento já passou.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The value does not exist</key>
+			<val>Este valor não existe</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>The value must be greater than 0</key>
+			<val>O valor deve ser maior que 0</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There are several addresses associated to this customer. Please choose one among the following:</key>
+			<val>Existem diversos endereços associados a esse cliente. Por favor, escolha um dos seguintes:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There are several customers associated to this partner. Please choose one among the following:</key>
+			<val>Existem diversos clientes associados a esse parceiro. Por favor, escolha um dos seguintes:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is a risk of duplicates for the following document(s):</key>
+			<val>Existe o risco de duplicatas nos seguintes documentos:</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is more than one partner for this ShipTo number</key>
+			<val>Existem diversos clientes associados a esse parceiro.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is more than one partner related to this delivery address</key>
+			<val>Existem diversos parceiros com este endereço de envio.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is no existing mapping between the shipping address and the ship-to number</key>
+			<val>Não há mapeamento entre o endereço de envio e o número de envio</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is no line item associated with the quote number you specified</key>
+			<val>O pedido não contém nenhum dos itens listados no orçamento especificado.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>There is no SAP order matching this number: {0}</key>
+			<val>O ID '{0}' não corresponde a nenhum pedido no SAP.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This document is associated with ERP Document ID</key>
+			<val>Este arquivo foi associado ao ID do documento ERP</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This document is associated with SAP Document ID</key>
+			<val>ID do documento SAP associado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This document is associated with SAP Document IDs</key>
+			<val>ID do documento SAP associados</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This field corresponds to the delivery date specified on the customer order</key>
+			<val>Esta é a data de entrega especificada no pedido do cliente. Deixe este campo em branco se a data de entrega não aparecer no documento.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This field is required and its value must be greater than 0</key>
+			<val>Este campo é obrigatório e seu valor deve ser maior que 0</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This material ID has been changed automatically based on previous similar orders</key>
+			<val>Este número de material foi corrigido automaticamente com base em pedidos semelhantes anteriores.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This order contains a new message from your customer</key>
+			<val>Você tem uma nova mensagem.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This order is coming from portal so please check this date</key>
+			<val>Observe que o cliente recebe a confirmação desta data após a aprovação do pedido.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>This ShipTo address is not related to the SoldTo.</key>
+			<val>Este endereço de envio não está associado ao endereço do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>To</key>
+			<val>Para</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Total</key>
+			<val>Total</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Total does not match the total of the remaining articles from quote: {0}</key>
+			<val>O valor não corresponde ao valor restante do item em orçamento: {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Total does not match unit price and quantity values</key>
+			<val>Os valores de Quantidade, Preço Unitário e Total são inconsistentes.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Touchless error revised order</key>
+			<val> Pedido de alteração</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Touchless error revised order_report</key>
+			<val>Pedido de alteração detectado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Tracking Url</key>
+			<val>URL de rastreamento externo</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Type</key>
+			<val>Tipo</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>TypeChangeOrder</key>
+			<val>Pedido de alteração</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>TypeOrder</key>
+			<val>Pedido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>TypeQuoteRequest</key>
+			<val>Pedido de orçamento</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>TypeReturnOrder</key>
+			<val>Pedido de devolução</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unable to make the Web Service call.</key>
+			<val>Impossível estabelecer uma conexão com o serviço Web do Oracle EBS.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unable to manage the price_request call response.</key>
+			<val>Impossível estabelecer uma conexão com o serviço Web do Oracle EBS.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unauthorized characters : the authorized special characters are : space, underscore, parenthesis and dash</key>
+			<val>Apenas os seguintes caracteres especiais são permitidos: _ () - e espaços em branco.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unchanged</key>
+			<val>Nenhum</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit</key>
+			<val>UdM</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit '{0}' does not match the material '{1}'</key>
+			<val>A unidade '{0}' não corresponde ao material '{1}'</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit price</key>
+			<val>Preço unitário</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit Price UoM</key>
+			<val>Preço unitário extr./UdM</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit Price UoM visible</key>
+			<val>Capturar preço unitário de uma combinação de preço unitário/UdM</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unit_report</key>
+			<val>Unidade de medida</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unknown customer</key>
+			<val>Cliente desconhecido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unknown material</key>
+			<val>Material desconhecido</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unreadable order</key>
+			<val>Documento de vendas ilegível</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Unusual quantity</key>
+			<val>Quantidade incomum</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>UoM Column</key>
+			<val>Unidade de medida</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Updated</key>
+			<val>Modificação</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Urgent</key>
+			<val>Urgente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Value changed from '{0}' to '{1}'</key>
+			<val>O valor alterou de '{0}' para '{1}'</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Value from database ({0}) differs from the one in order ({1})</key>
+			<val>O valor na tabela de dados mestre ({0}) difere do valor do pedido ({1})</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Waiting for customer answer</key>
+			<val>Aguardando resposta do cliente</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouse</key>
+			<val>Armazém</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouse Code</key>
+			<val>Código do armazém</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouse code doesn't exist in the current organization</key>
+			<val>Código de depósito não encontrado para a unidade operacional selecionada.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouse Name</key>
+			<val>Nome</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warehouses</key>
+			<val>Armazéns</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warning details title</key>
+			<val>Detalhes do aviso</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Warning message title</key>
+			<val>Mensagem de aviso</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You are about to send a teaching request for customer number: {0}</key>
+			<val>Você está prestes a enviar uma solicitação ao usuário responsável pelo ensino para melhorar o reconhecimento dos pedidos emitidos pelo fornecedor n.º {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You are about to send an email</key>
+			<val>Você está prestes a enviar o documento junto com seus anexos por e-mail. Use ponto e vírgula para separar vários endereços de e-mail.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You have a partner with a function but without an ID</key>
+			<val>Digite o número do parceiro que corresponde à função do parceiro especificada.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You must choose an item before browsing its warehouse</key>
+			<val>Por favor, escolha um item primeiro.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You must choose an order type first</key>
+			<val>Por favor, escolha um tipo de pedido primeiro.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>You must have a least one document to dispatch.</key>
+			<val>Deve haver pelo menos dois documentos para executar esta ação.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Your order for {0} has been confirmed</key>
+			<val>Seu pedido para {0} foi confirmado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Your order for {0} has been rejected</key>
+			<val>Seu pedido de {0} foi cancelado</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Your SAP Document ID is : {0}</key>
+			<val>O seu documento foi lançado com sucesso no SAP. Seu ID de documento SAP é {0}.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Your SAP Document IDs are : {0}</key>
+			<val>Os seus documentos foram lançados com sucesso no SAP. Seus ID de documentos SAP são {0}.</val>
+		</TranslateItem>
+	</items>
+</TranslateCollection>

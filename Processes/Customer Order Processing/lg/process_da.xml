@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslateCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" frozen="false">
+	<items>
+		<TranslateItem>
+			<key>_Add original email content</key>
+			<val>Inkluder den originale mail i samtalen</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_ChatGPT answer</key>
+			<val>Svar genereret med ChatGPT</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation cc</key>
+			<val>CC</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation email</key>
+			<val>Mailadresse</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation email bad format</key>
+			<val>Indtast en gyldig mailadresse.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation email linked to another customer</key>
+			<val>er registreret som kontakt for en anden kunde.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation message</key>
+			<val>Meddelelse</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation name</key>
+			<val>Kontaktpersonens navn</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation template</key>
+			<val>Skabelon</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation to</key>
+			<val>Til</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation unable to send message</key>
+			<val>Kunne ikke sende meddelelse</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation will create new customer</key>
+			<val>er ikke registreret som kontakt for denne kunde.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Conversation will create one or more new customers</key>
+			<val>er ikke registreret som kontakter for denne kunde.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Customer</key>
+			<val>Kundekontakter</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Do not show this warning again</key>
+			<val>Vis ikke denne meddelelse igen.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_External</key>
+			<val>Andre kontakter</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_GenerateReplySuggestion</key>
+			<val>Foreslå et mailsvar</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_LookForAnswerToTheQuestionSuggestion</key>
+			<val>Hvad er svaret på kundeforespørgslen?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactCheckBox</key>
+			<val>Kundekontakt</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDialogDescription</key>
+			<val>Vælg de mailadresser, du vil tilføje som kundekontakter med adgang til kundeportalen. Både valgte og fravalgte kontakter er tilføjet til din modtagerliste og anvendes til forslag til automatisk udfyldning. Kontakt din administrator for at udelukke maildomæner fra oprettelsen af kundekontakter.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDialogTitle</key>
+			<val>Tilføj kundekontakt</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactDisplayName</key>
+			<val>Navn</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_NewContactEmailAddress</key>
+			<val>Mailadresse</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select a customer before starting a conversation</key>
+			<val>Indtast et kundenummer eller -navn for at angive, hvilken kunde du vil sende en meddelelse til.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Select a customer before starting a conversation popup title</key>
+			<val>Ny meddelelse</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SelectOrEnterAtLeastOneEmailAddress</key>
+			<val>Vælg eller indtast en mailadresse...</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Send message</key>
+			<val>Ny samtale</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_SendEmail</key>
+			<val>Send dette svar til kunden</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Signature template</key>
+			<val>Signatur</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_User</key>
+			<val>Interne kontakter</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemoved</key>
+			<val>En modtager er blevet fjernet. Der vil blive oprettet en ny samtale.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemovedDialogMessage</key>
+			<val>Når en modtager fjernes, oprettes en ny samtale.</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_WarningParticipantHasBeenRemovedDialogTitle</key>
+			<val>Ny samtale</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Availability question</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>Claim</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>Display publish on portal warning for conversation</key>
+			<val>Du er i gang med at starte en samtale med {0}, som automatisk vil udgive dokumentet på deres kundeportal. Vil du forsætte?</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Enter an order</key>
+			<val>Indtast ordre</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invoice question</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order question</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>Product question</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote request</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>Show extracted description column</key>
+			<val>Vis kolonnen 'Udtrukket beskrivelse'</val>
+		</TranslateItem>
+	</items>
+</TranslateCollection>

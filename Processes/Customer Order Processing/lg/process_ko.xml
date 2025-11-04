@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TranslateCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" frozen="false">
+	<items>
+		<TranslateItem>
+			<key>_Account_number</key>
+			<val>계정 번호</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Advanced Shipping Notices</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse PO Date</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Browse PO Number</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_brand</key>
+			<val>카드 제공업체</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_expiration</key>
+			<val>만료일</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_holder</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_number</key>
+			<val>카드 번호</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Card_type</key>
+			<val>카드 유형</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Down payment percentage</key>
+			<val>선금(%)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Paid amount</key>
+			<val>지불된 금액</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_date</key>
+			<val>거래일</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_error_code</key>
+			<val>결제 오류 코드</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_pane</key>
+			<val>결제 요약</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_processor</key>
+			<val>결제 제공업체</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_processor_fee</key>
+			<val>결제 제공업체 수수료</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_processor_reference</key>
+			<val>결제 제공업체 참조</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_status</key>
+			<val>결제 상태</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Payment_type</key>
+			<val>결제 방법</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_PaymentError</key>
+			<val>결제 오류</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>_The net value is {0} and it should be {1} in item {2}</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>_Transaction_id</key>
+			<val>결제 참조</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Availability question</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>CANCELLED</key>
+			<val>취소됨</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Claim</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>Customer Order Processing (distinguisher)</key>
+			<val>{0} (OM)</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>ERROR</key>
+			<val>실패함</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Invoice question</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>Order question</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>PAID</key>
+			<val>성공함</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>PARTIALLYPAID</key>
+			<val>일부 지불됨</val>
+		</TranslateItem>
+		<TranslateItem>
+			<key>Product question</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>Quote request</key>
+			<val />
+		</TranslateItem>
+		<TranslateItem>
+			<key>SalesRepID</key>
+			<val>영업 배정 그룹</val>
+		</TranslateItem>
+	</items>
+</TranslateCollection>

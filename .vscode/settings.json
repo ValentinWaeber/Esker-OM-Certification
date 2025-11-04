@@ -1,0 +1,12 @@
+{
+    "esker.eod.accounts": [
+        {
+            "id": "20033496",
+            "name": "OrderManagement_Cert",
+            "user": ".su@20033496",
+            "overwrite": true,
+            "isProtected": false,
+            "env": "j"
+        }
+    ]
+}

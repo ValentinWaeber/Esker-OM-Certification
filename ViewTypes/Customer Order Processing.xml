@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<viewType xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<reportpreselectedonlydefined>true</reportpreselectedonlydefined>
+	<headers>
+		<!-- Change group of common fields (processTemplate define other fields group)-->
+		<header name="_State" reportpreselectedorder="9"/>
+		<header name="SubmitDateTime" reportpreselectedorder="1"/>
+		<header name="_ValidationState" behavior="Default,  ReportPreselectedForProcess" reportpreselectedorder="10"/>
+		<header name="_OwnerID" behavior="Default"/>
+		<!-- Hide common fields -->
+	</headers>
+
+	<!-- Defines groups order (position in list below) -->
+	<groups>
+	</groups>
+</viewType>
